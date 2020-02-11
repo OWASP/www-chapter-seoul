@@ -9,36 +9,34 @@ region: Middle East
 
 
 ---
-# Introduction
+# OWASP Seoul Chapter
+
+본 Chapter는 2010년 11월 설립 위원회를 구성하여 첫 회의 후, 2011년 1월부터 OWASP Korea Chapter 1기 운영진, 2013년 6월 2기 운영진, 2015년 2월 3기 운영진을 거쳐왔으며, 한동안 여러가지 사정으로 인해 운영이되지 않고 있다가 2018년 7월 4기 운영진을 재구성하여 본부에 챕터 재시작을 요청하였으며, 2019년 3월에 재시작 승인을 받으며서 현재의 OWASP Seoul Chapter 이름으로 활동하고 있습니다.
+
+OWASP Seoul Chapter는 국내 소프트웨어, 애플리케이션, 웹 보안 향상을 위해 각종 문서 발간, 프로젝트 진행, 워크샵, 세미나 및 컨퍼런스 등의 행사를 개최하고 있으니 국내ㆍ외 소프트웨어 개발자, 웹 애플리케이션 개발자, 정부기관 및 소프트웨어 기업에서의 많은 관심과 지원을 바랍니다.
+
 
 ## Regional Events
 
   - [OWASP Korea Day 2019 워크샵 개최(2019년 11월 02일 13:30\~20:00, KST
     )](http://event.owasp.or.kr/)
 
-| OWASP Korea Day 2019 행사 후원사 [(주)수산아이앤티](https://www.soosanint.com/)![(주)수산아이엔티.png](\(주\)수산아이엔티.png "(주)수산아이엔티.png") [한국CISSP협회](https://isc2chapter.kr)![CISSP_Korea.png](CISSP_Korea.png "CISSP_Korea.png") |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| OWASP Korea Day 2019 행사 후원사 [(주)수산아이앤티](https://www.soosanint.com/) [한국CISSP협회](https://isc2chapter.kr) |
+| -------------------------------------------------------------------------------------------------------------- |
 
-  - [OWASP Korea Day 2015
-    (2015년 6월 12일)](http://event.owasp.or.kr/koreaday2015)
-  - [OWASP Asia Tour Korea Conference
-    (2014년 12월 19일)](https://www.owasp.org/index.php/AsiaTour2014#tab=Seoul)
-  - [OWASP Korea Day 2014
-    (2014년 6월 17일)](http://event.owasp.or.kr/koreaday2014)
-  - [OWASP Korea Day 2013-2
-    (2013년 7월 13일)](http://event.owasp.or.kr/2013-02)
-  - [OWASP Korea Day 2013-1
-    (2013년 4월 27일)](http://event.owasp.or.kr/2013-01)
-  - [OWASP AppSec APAC 2013 행사 주관 (2013년 2월 19일 \~ 22일, 제주 하얏트
-    호텔)](https://www.owasp.org/index.php/AppSecAsiaPac2013)
+  - [OWASP Korea Day 2015(2015년 6월 12일)](http://event.owasp.or.kr/koreaday2015)
+  - [OWASP Asia Tour Korea Conference(2014년 12월 19일)](https://www.owasp.org/index.php/AsiaTour2014#tab=Seoul)
+  - [OWASP Korea Day 2014(2014년 6월 17일)](http://event.owasp.or.kr/koreaday2014)
+  - [OWASP Korea Day 2013-2(2013년 7월 13일)](http://event.owasp.or.kr/2013-02)
+  - [OWASP Korea Day 2013-1(2013년 4월 27일)](http://event.owasp.or.kr/2013-01)
+  - [OWASP AppSec APAC 2013 행사 주관 (2013년 2월 19일 \~ 22일, 제주 하얏트 호텔)](https://www.owasp.org/index.php/AppSecAsiaPac2013)
   - OWASP 코리아 챕터 세미나 개최 (2011년 10월, 서울 코엑스)
 
 Everyone is welcome to join us at our chapter meetings.
 
 # Member
 
-OWASP Seoul Chapter 4기 운영진을 현재 아래와 같이 구성하여 운영중입니다. 궁금하신 사항은 언제든지 문의하여
-주시기 바랍니다.
+OWASP Seoul Chapter 4기 운영진을 현재 아래와 같이 구성하여 운영중입니다. 궁금하신 사항은 언제든지 문의하여 주시기 바랍니다.
 
   - 챕터분과 : 최형순 대표리더, 김태균 팀장, 김상효
   - 회원분과 : 박형근 이사, 이민욱 팀장, 윤선희, 임공식
