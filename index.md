@@ -10,24 +10,26 @@ region: Asia
 # Introduction
 
 <p style='text-align: justify;'>
-OWASP (Open Web Application Security Project)는 전 세계 기업, 교육기관 및 개인이 만들어가는 오픈 소스 어플리케이션 보안 프로젝트로서 1984년 4월 안전한 웹 및 응용을 개발할 수 있도록 지원하기 위해 미국에서 비영리 단체로 출발하였습니다. OWASP는 중립적, 실무적이면서도 비용 효과적인 어플리케이션 보안 가이드라인을 무료로 제공하고 있으며, 이러한 가이드라인은 지난 10년간 웹 및 어플리케이션 보안분야에서 사실 표준이 되고 있으며 지금도 발전하고 있습니다.<br>
-저희 Chapter는 2010년 11월 설립 위원회를 구성하여 첫 회의 후, 2011년 1월부터 OWASP Korea Chapter 1기 운영진, 2013년 6월 2기 운영진, 2015년 2월 3기 운영진으로 운영되다가 한동안 공백기가 있었으나, 2018년 7월 4기 운영진을 재구성하여 본부에 재시작 요청하였으며, 이에 2019년 3월 OWASP Seoul Chapter로서 재시작하게 되었습니다.<br>
-OWASP Seoul Chapter는 국내 소프트웨어, 애플리케이션, 웹 보안 향상을 위해 각종 문서 발간, 프로젝트 진행, 워크샵, 세미나 및 컨퍼런스 등의 행사를 개최하고 있사오니 국내ㆍ외 소프트웨어 개발자, 웹 애플리케이션 개발자, 정부기관 및 소프트웨어 기업에서 많은 관심과 지원을 바랍니다.<br>
-<br>
-Everyone is welcome to join us at our chapter meetings.<br>
+OWASP (Open Web Application Security Project)는 전 세계 기업, 교육기관 및 개인이 만들어가는 오픈 소스 어플리케이션 보안 프로젝트로서 1984년 4월 안전한 웹 및 응용을 개발할 수 있도록 지원하기 위해 미국에서 비영리 단체로 출발하였습니다. OWASP는 중립적, 실무적이면서도 비용 효과적인 어플리케이션 보안 가이드라인을 무료로 제공하고 있으며, 이러한 가이드라인은 지난 10년간 웹 및 어플리케이션 보안분야에서 사실 표준이 되고 있으며 지금도 발전하고 있습니다.
+
+
+저희 Chapter는 2010년 11월 설립 위원회를 구성하여 첫 회의 후, 2011년 1월부터 OWASP Korea Chapter 1기 운영진, 2013년 6월 2기 운영진, 2015년 2월 3기 운영진으로 운영되다가 한동안 공백기가 있었으나, 2018년 7월 4기 운영진을 재구성하여 본부에 재시작 요청하였으며, 이에 2019년 3월 OWASP Seoul Chapter로서 재시작하게 되었습니다.
+
+
+OWASP Seoul Chapter는 국내 소프트웨어, 애플리케이션, 웹 보안 향상을 위해 각종 문서 발간, 프로젝트 진행, 워크샵, 세미나 및 컨퍼런스 등의 행사를 개최하고 있사오니 국내ㆍ외 소프트웨어 개발자, 웹 애플리케이션 개발자, 정부기관 및 소프트웨어 기업에서 많은 관심과 지원을 바랍니다.
 </p>
-<br>
+
+
+
 ## **"OWASP Korea Day 2019" 개최**
   - 행 사 일 시 : 2019년 11월 02일(토), 13:30 ~ 20:00
-  - 행 사 장 소 : 서울시 강남구 밤고개로5길 13 수산빌딩 지하1층 대회의실,<br>
-                <http://naver.me/5O4wOPys> (지하철 3호선/분당선 수서역 1번, 4번 출구)
-  - 행 사 후 원 : [(주)수산아이앤티](https://www.soosanint.com/), [한국CISSP협회](https://isc2chapter.kr)
+  - 행 사 장 소 : 서울시 강남구 밤고개로5길 13 수산빌딩 지하1층 대회의실, [위치](<http://naver.me/5O4wOPys>) (지하철 3호선/분당선 수서역 1,4번 출구)
+  - 행 사 후 원 : [(주)수산아이앤티](https://www.soosanint.com/), [한국CISSP협회](https://isc2chapter.kr)<br>
     *행사장에 주차가 되지 않으니 가급적 대중교통을 이용하시기 바랍니다.
   - 참 가 비 용 : OWASP 국내외 회원 여부와 관계 없이 1만원
   - 입 금 안 내 : 79791521270 카카오뱅크
   - 행 사 등 록 : [참가 신청하기](https://forms.gle/4VJH9ZHqP6d8iUKGA)
-  - 행 사 문 의 : 최형순 대표리더(hyungsoon.choi@owasp.org),<br>
-                김태균(taegyun.kim@owasp.or.kr), 김상효(1knpno1@gmail.com)
+  - 행 사 문 의 : [최형순 대표리더](mailto:hyungsoon.choi@owasp.org), [김태균](mailto:taegyun.kim@owasp.or.kr), [김상효](mailto:1knpno1@gmail.com)
   - 발 표 자 료 :
     [전체보기](https://github.com/OWASP-Seoul/owasp-event/tree/master/OWASP%20Korea%20Day%202019)
       - OWASP 연혁 및 활동 계획 - 최형순 대표리더(챕터 분과) :
