@@ -10,7 +10,6 @@ tags: Seoul
 ## 지난 행사
 
   - [OWASP Korea Day 2019 워크샵 개최(2019년 11월 02일 13:30\~20:00, KST)](http://event.owasp.or.kr/)
-    OWASP Korea Day 2019 행사 후원사 [(주)수산아이앤티](https://www.soosanint.com/) [한국CISSP협회](https://isc2chapter.kr)
   - [OWASP Korea Day 2015(2015년 6월 12일)](http://event.owasp.or.kr/koreaday2015)
   - [OWASP Asia Tour Korea Conference(2014년 12월 19일)](https://www.owasp.org/index.php/AsiaTour2014#tab=Seoul)
   - [OWASP Korea Day 2014(2014년 6월 17일)](http://event.owasp.or.kr/koreaday2014)
