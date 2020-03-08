@@ -1,14 +1,15 @@
 ---
-title: Member
+title: Members
 layout:  null
 tab: true
 order: 1
 tags: Seoul
 ---
 
-# Member
+# OWASP Seoul Chapter 운영진
 
-OWASP Seoul Chapter 4기 운영진을 현재 아래와 같이 구성하여 운영중입니다. 궁금하신 사항은 언제든지 문의하여 주시기 바랍니다.
+OWASP Seoul Chapter 4기 운영진을 현재 아래와 같이 구성하여 운영중입니다.
+운영진에 참여하기를 원하시는 분이나 기타 궁금하신 사항은 언제든지 문의하여 주시기 바랍니다.
   - 챕터분과 : 최형순 대표리더, 김태균 팀장, 김상효
   - 회원분과 : 박형근 이사, 이민욱 팀장, 윤선희, 임공식
   - 컨퍼런스 : 정미심 이사, 유현수 팀장, 손지수, 이강준, 조만수

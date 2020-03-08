@@ -1,5 +1,5 @@
 ---
-title: Project
+title: Projects
 layout:  null
 tab: true
 order: 3
