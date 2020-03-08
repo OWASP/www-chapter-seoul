@@ -16,8 +16,8 @@ OWASP Seoul Chapter는 국내 소프트웨어, 애플리케이션, 웹 보안 �
 <br>
 Everyone is welcome to join us at our chapter meetings.<br>
 </p>
-
-
+<br>
+<br>
 ## **"OWASP Korea Day 2019" 개최**
 
 <p style='text-align: justify;'>
@@ -29,14 +29,15 @@ OWASP Seoul Chapter는 국내 소프트웨어, 애플리케이션, 웹 보안 �
 </p>
 <br>
   - 행 사 일 시 : 2019년 11월 02일(토), 13:30 ~ 20:00
-  - 행 사 장 소 : 서울시 강남구 밤고개로5길 13 수산빌딩 지하1층 대회의실,
-    <http://naver.me/5O4wOPys> (지하철 3호선/분당선 수서역 1번, 4번 출구)
+  - 행 사 장 소 : 서울시 강남구 밤고개로5길 13 수산빌딩 지하1층 대회의실,<br>
+                <http://naver.me/5O4wOPys> (지하철 3호선/분당선 수서역 1번, 4번 출구)
   - 행 사 후 원 : [(주)수산아이앤티](https://www.soosanint.com/), [한국CISSP협회](https://isc2chapter.kr)
     *행사장에 주차가 되지 않으니 가급적 대중교통을 이용하시기 바랍니다.
   - 참 가 비 용 : OWASP 국내외 회원 여부와 관계 없이 1만원
   - 입 금 안 내 : 79791521270 카카오뱅크
   - 행 사 등 록 : [참가 신청하기](https://forms.gle/4VJH9ZHqP6d8iUKGA)
-  - 행 사 문 의 : 최형순 대표리더(hyungsoon.choi@owasp.org), 김태균(taegyun.kim@owasp.or.kr), 김상효(1knpno1@gmail.com)
+  - 행 사 문 의 : 최형순 대표리더(hyungsoon.choi@owasp.org),<br>
+                김태균(taegyun.kim@owasp.or.kr), 김상효(1knpno1@gmail.com)
   - 발 표 자 료 :
     [전체보기](https://github.com/OWASP-Seoul/owasp-event/tree/master/OWASP%20Korea%20Day%202019)
       - OWASP 연혁 및 활동 계획 - 최형순 대표리더(챕터 분과) :
