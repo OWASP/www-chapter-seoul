@@ -37,5 +37,5 @@ OWASP Seoul Chapter는 국내 소프트웨어, 애플리케이션, 웹 보안 �
     - Hypervisor를 이용한 웹 서버 보안 - 정회찬 수석(수산아이앤티) :
         [다운로드](https://github.com/OWASP-Seoul/owasp-event/raw/master/OWASP%20Korea%20Day%202019/OWASP%20Seoul%20%EB%B0%9C%ED%91%9C_%EC%A0%95%ED%9A%8C%EC%B0%AC.pptx)
     - 오픈검색서비스(OSINT) API를 활용한 보안과 개발 - 조정원 팀장(프로젝트 분과) :
-        [다운로드](https://github.com/OWASP-Seoul/owasp-event/raw/master/OWASP%20Korea%20Day%202019/%EC%98%A4%ED%94%88%20%EA%B2%80%EC%83%89%20%EC%84%9C%EB%B9%84%EC%8A%A4\(OSINT\)%20API%EB%A5%BC%20%ED%99%9C%EC%9A%A9%ED%95%9C%20%EB%B3%B4%EC%95%88%EA%B3%BC%20%EA%B0%9C%EB%B0%9C_%EB%B0%B0%ED%8F%AC.pptx)
+        [다운로드](https://github.com/OWASP-Seoul/owasp/raw/master/OWASP%20Korea%20Day%202019/%EC%98%A4%ED%94%88%20%EA%B2%80%EC%83%89%20%EC%84%9C%EB%B9%84%EC%8A%A4(OSINT)%20API%EB%A5%BC%20%ED%99%9C%EC%9A%A9%ED%95%9C%20%EB%B3%B4%EC%95%88%EA%B3%BC%20%EA%B0%9C%EB%B0%9C_%EB%B0%B0%ED%8F%AC.pptx)
     - Security by Design - 김영숙 리더(산업 분과) : 다운로드
