@@ -22,4 +22,4 @@ OWASP Seoul Chapter 4기 운영진을 현재 아래와 같이 구성하여 운�
 
 <hr class="mobile">
 
-{% include membership.md %}
+{% include membership.html %}
