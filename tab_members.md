@@ -36,6 +36,6 @@ OWASP Foundation에 참여할 수 있는 많은 방법 중 하나는 회원이 �
   - OWASP 이메일의 표준 형식은 firstname.lastname@owasp.org입니다. 이메일 주소는 회원 자격 기간중에만 유효하며, 갱신하지 않으면 회원 자격 마지막일로부터 30일 후에 일시 정지됩니다.
 
 글로벌 회원은 아래와 같은 3가지 유형으로 구분되어 있으며, 원하시는 유형으로 가입하여 참여하실 수 있습니다.
-- [개인 회원](https://owasp.org/membership/)
-- [학생 회원](https://owasp.org/membership/?student=yes)
-- [기업 회원](https://owasp.org/supporters/)
+- [개인 회원](https://owasp.org/membership/){: target="_blank"}
+- [학생 회원](https://owasp.org/membership/?student=yes){: target="_blank"}
+- [기업 회원](https://owasp.org/supporters/){: target="_blank"}
