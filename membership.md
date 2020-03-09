@@ -1,0 +1,451 @@
+<style>
+[v-cloak] {display: none}
+
+#membership-app input:focus, #membership-app select:focus {
+  outline: none;
+}
+
+.legal-text {
+  font-size: 75%;
+  color: #808080;
+}
+
+.form-container {
+  margin: 40px 0px;
+  max-width: 100%;
+}
+
+.error-text {
+  color: #ff0000;
+  font-size: 75%;
+  margin-top: 4px !important;
+}
+
+.form-container input, .form-container select {
+  width: 100%;
+  border: 1px solid #000000;
+  padding: 8px;
+}
+
+.form-container select {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  background-color: #ffffff;
+  border-radius: 0px;
+  font-size: 18px;
+  padding: 9px;
+}
+
+.form-row {
+  margin-bottom: 20px;
+}
+
+.membership-option {
+  text-align: center;
+  background-color: #D3D3D3;
+  color: #000000;
+  padding: 20px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.membership-option.selected {
+  background-color: #233e81;
+  color: #ffffff;
+}
+
+.checkbox-container {
+  display: block;
+  position: relative;
+  padding-left: 35px;
+  margin-bottom: 12px;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.checkbox-container input {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+  height: 0;
+  width: 0;
+}
+
+.checkbox-container .checkmark {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 25px;
+  width: 25px;
+  background-color: #eee;
+}
+
+.checkbox-container:hover input ~ .checkmark {
+  background-color: #ccc;
+}
+
+.checkbox-container input:checked ~ .checkmark {
+  background-color: #233e81;
+}
+
+.checkbox-container .checkmark:after {
+  content: "";
+  position: absolute;
+  display: none;
+}
+
+.checkbox-container input:checked ~ .checkmark:after {
+  display: block;
+}
+
+.checkbox-container .checkmark:after {
+  left: 9px;
+  top: 5px;
+  width: 5px;
+  height: 10px;
+  border: solid white;
+  border-width: 0 3px 3px 0;
+  -webkit-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+
+.membership-fields {
+  margin-bottom: 40px;
+}
+
+.membership-fields div {
+  margin: 14px 0px;
+}
+
+.membership-button {
+  border: 0;
+  padding: 16px;
+  font-weight: bold;
+  color: #ffffff;
+  background-color: #233e81;
+  text-transform: uppercase;
+  font-size: 110%;
+}
+
+@media (min-width: 768px) {
+  .form-container {
+    max-width: 70%;
+  }
+
+  .form-row {
+    display: flex;
+  }
+
+  .form-row div:not(:last-child) {
+    margin-right: 10px;
+  }
+
+  .membership-option {
+    flex: 1;
+    flex-basis: 0;
+  }
+
+  .quarter {
+    flex: 1;
+    flex-basis: 25%;
+  }
+
+  .three-fourths {
+    flex: 1;
+    flex-basis: 75%;
+  }
+}
+</style>
+
+{% raw %}
+<div id="membership-app" style="margin: 0px;" v-cloak>
+
+  <div class="col-sidebar">
+    <div class="main-wrapper" style="padding: 0px;">
+      <div>
+
+      <!-- main membership form -->
+
+      <h1>개인 회원</h1>
+      <img src="./assets/images/members-header.png" alt="Attendees at a Global AppSec Conference">
+
+      <p style='text-align: justify;'>
+      OWASP Foundation에 참여할 수 있는 많은 방법 중 하나는 회원이 되는 것입니다. 우리는 전 세계 회원을 통해 웹 보안을 위한 사명을 추진하고 있습니다. AppSec의 다양성을 장려하고 지원하며 귀하가 참여하기를 희망합니다. 또한 모든 사람이 OWASP에 액세스할 수 있도록 지역별 가격을 제공합니다. 멤회원 가입시 다음을 포함한 많은 혜택이 있습니다.
+      </p>
+      <ul> 
+        <li>지속적인 업무 지원</li>
+        <li>할인된 컨퍼런스 비용</li>
+        <li>owasp.org 이메일 주소</li>
+        <li>여행 보조금에 대한 우선 순위 액세스</li>
+        <li>그리고 다른 많은 것들이...</li>
+        <li>OWASP 이메일의 표준 형식은 firstname.lastname@owasp.org입니다. 이메일 주소는 회원 자격 기간중에만 유효하며, 갱신하지 않으면 회원 자격 마지막일로부터 30일 후에 일시 정지됩니다.</li>
+      </ul>
+
+      <p style='text-align: justify;'>
+      <a href="/manage-membership">멤버쉽을 관리</a>하여 기존 계획을 갱신하거나 청구 세부 정보를 수정할 수 있습니다. 귀사의 비즈니스가 <a href="/supporters">기업 구성원</a>이 되기를 원하십니까?
+      </p>    
+
+      <h2>회원 가입하기</h2>
+      <form class="form-container" v-on:submit.prevent="handleSubmit">
+        <div class="error-text" style="font-size: 90%; margin-bottom: 16px" id="error-message" v-if="Object.keys(errors).length">
+          계속하기 전에 아래의 오류를 수정하십시오.
+        </div>
+        <div class="form-row" style="margin-bottom: 25px;">
+          <div class="three-fourths">
+            <select v-model="country">
+              <option value="null">거주 국가</option>
+              <option v-for="item in countries" v-bind:value="item">
+                {{ item.name }}
+              </option>
+            </select>
+            <div class="error-text" v-if="errors.country">
+              {{ errors.country[0] }}
+            </div>
+          </div>
+          <div class="quarter">
+            <input type="text" v-model="postal_code" aria-label="우편번호" placeholder="Postal Code" />
+            <div class="error-text" v-if="errors.postal_code">
+              {{ errors.postal_code[0] }}
+            </div>
+          </div>
+        </div>
+        <div class="form-row" style="margin-bottom: 8px;">
+          <div class="membership-option" v-for="membership in membershipOptions" v-on:click="updateMembership(membership.name, membership.discount)" v-bind:class="membership_type === membership.name ? 'selected' : ''">
+            {{ membership.name }} {{ membership.amount }}
+          </div>
+        </div>
+        <div class="error-text" v-if="errors.membership_type">
+          {{ errors.membership_type[0] }}
+        </div>
+        <div style="margin-bottom: 35px; margin-top: 35px;">
+        <label class="checkbox-container" v-if="!student">멤버쉽 자동 갱신
+        <input type="checkbox" v-model="auto_renew">
+          <span class="checkmark"></span>
+        </label>
+        <label class="checkbox-container">OWASP 메일링 리스트 가입(아래 세부 정보 참조)
+          <input type="checkbox" v-model="mailing_list">
+          <span class="checkmark"></span>
+        </label>
+        </div>
+        <div class="membership-fields">
+          <h3>회원정보</h3>
+          <div>
+            <input type="text" v-model="email" aria-label="전자우편" placeholder="Email Address" />
+            <div class="error-text" v-if="errors.email">
+              {{ errors.email[0] }}
+            </div>
+          </div>
+          <div>
+            <input type="text" v-model="email_confirm" aria-label="전자우편 확인" placeholder="Confirm Email Address" />
+            <div class="error-text" v-if="errors.email_confirm">
+              {{ errors.email_confirm[0] }}
+            </div>
+          </div>
+          <div v-if="student">
+            <input type="text" v-model="university" aria-label="대학" placeholder="University" />
+            <div class="error-text" v-if="errors.university">
+              {{ errors.university[0] }}
+            </div>
+          </div>
+          <div v-else>
+            <input type="text" v-model="company_name" aria-label="회사 이름" placeholder="Company Name" />
+            <div class="error-text" v-if="errors.company_name">
+              {{ errors.company_name[0] }}
+            </div>
+          </div>
+          <div>
+            <input type="text" v-model="name_on_card" aria-label="이름" placeholder="Name" />
+            <div class="error-text" v-if="errors.name_on_card">
+              {{ errors.name_on_card[0] }}
+            </div>
+          </div>
+        </div>
+        <div class="submit-container">
+          <button type="submit" class="membership-button" v-bind:disabled="loading">가입하기</button>
+        </div>
+      </form>
+
+      <p class="legal-text" style='text-align: justify;'>
+      이 양식을 제출하면 회원 자격 상태에 관한 OWASP 재단의 연락을 받는것에 대해 동의하는 것입니다. 멤버십 회비는 적립되지 않으며 구매한 뒤에는 취소할 수 없습니다. 할인 및 <a href="/membership?student=yes">학생 멤버십</a>은 자격이 있는 개인에게만 제공됩니다. 사기성 회원 신청은 무반환 통지 없이 취소됩니다. "OWASP 메일링 리스트 가입"을 선택하여 마케팅 메일을 받도록 선택할 수 있습니다. 마케팅 메일에는 다가오는 컨퍼런스, 회의 및 기타 기회에 대한 정보 및 특별 행사가 포함됩니다. 이메일 하단에 있는 수신 거부 링크를 사용하여 언제든지 마케팅 메일링 리스트 이메일 수신에 대한 동의를 철회할 수 있습니다.
+      </p>
+
+      <!-- end membership form -->
+
+      </div>
+      <aside class="sidebar" role="complementary">
+        <!-- reserved for future use -->
+      </aside>
+    </div>
+  </div>
+
+</div>
+{% endraw %}
+
+<script src="https://js.stripe.com/v3"></script>
+<script src="https://unpkg.com/vue"></script>
+<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+
+<script>
+var stripe = Stripe('pk_live_mw0B2kiXQTFkD44liAEI03oT00S5AGfSV3');
+window.addEventListener('load', function () {
+  new Vue({
+    el: '#membership-app',
+    data: {
+      loading: false,
+      errors: {},
+      countries: {{ site.data.countries | jsonify }},
+      membership_type: null,
+      membership_amount: null,
+      membership_discount: null,
+      country: null,
+      postal_code: null,
+      email: null,
+      email_confirm: null,
+      name_on_card: null,
+      company_name: null,
+      university: null,
+      auto_renew: false,
+      student: false,
+      mailing_list: false
+    },
+    created: function () {
+      const queryParams = new URLSearchParams(window.location.search);
+      if (queryParams.has('student')) {
+        this.student = true
+        this.membership_type = 'One Year';
+        this.membership_discount = false;
+        this.$forceUpdate();
+      }
+      if(queryParams.has('email')){
+        this.email = queryParams.get('email')
+        
+      }
+    },
+    computed: {
+      membershipOptions: function () {
+        if (this.student) {
+          return [
+            { name: 'One Year', amount: '$20', discount: false }
+          ];
+        }
+        if (!this.country || !this.country.hasOwnProperty('discount') ||
+        this.country.discount == false) {
+          return [
+            { name: 'One Year', amount: '$50', discount: false },
+            { name: 'Two Year', amount: '$95', discount: false },
+            { name: 'Lifetime', amount: '$500', discount: false }
+          ];
+        } else {
+          return [
+            { name: 'One Year', amount: '$20', discount: true }
+          ]
+        }
+      }
+    },
+    watch: {
+      country: function (newCountry, oldCountry) {
+        if (this.student) {
+          return;
+        }
+
+        if (newCountry.discount) {
+          this.membership_type = 'One Year';
+          this.membership_discount = true;
+          this.$forceUpdate();
+        } else if (oldCountry && oldCountry.discount) {
+          this.membership_type = null;
+          this.membership_discount = false;
+          this.$forceUpdate();
+        }
+      }
+    },
+    methods: {
+      handleSubmit: function () {
+        this.loading = true;
+        this.validateForm();
+
+        if (Object.keys(this.errors).length > 0) {
+          this.loading = false;
+          this.$nextTick(function () {
+            document.getElementById('error-message').scrollIntoView();
+          })
+        } else {
+          const postData = {
+            checkout_type: 'membership',
+            membership_type: this.membership_type,
+            discount: this.membership_discount,
+            recurring: this.auto_renew,
+            country: this.country,
+            postal_code: this.postal_code,
+            email: this.email,
+            name: this.name_on_card,
+            company: this.company_name,
+            university: this.university,
+            mailing_list: this.mailing_list,
+            student: this.student,
+            currency: 'usd'
+          };
+          axios.post('https://owaspadmin.azurewebsites.net/api/CreateCheckoutSession?code=ulMNYVfgzBytI1adat1lS6MQ3NabtwKE4IgCJ8yKuhvbFoQh6nOYaw==', postData)
+            .then(function (response) {
+              stripe.redirectToCheckout({
+                sessionId: response.data.data.session_id
+              }).then(function (result) {
+                console.log(result.error.message)
+              }); 
+            })
+            .catch(function (error) {
+              vm.errors = error.response.data.errors
+              vm.loading = false
+              vm.$nextTick(function () {
+                document.getElementById('error-message').scrollIntoView();
+              })
+            });
+        }
+      },
+      updateMembership: function (name, discount) {
+        this.membership_type = name;
+        this.membership_discount = discount;
+        this.$forceUpdate();
+      },
+      validateForm: function () {
+        let errors = {};
+
+        if (!this.membership_type) {
+          errors.membership_type = ['멤버쉽 유형을 선택하십시오.'];
+        }
+
+        if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(this.email)) {
+          errors.email = ['유효한 이메일 주소를 입력하십시오.'];
+        }
+
+        if (this.email_confirm !== this.email) {
+          errors.email_confirm = ['두 이메일 주소가 모두 일치해야 합니다.'];
+        }
+
+        if (!this.name_on_card) {
+          errors.name_on_card = ['신용카드에 표시된 대로 이름을 입력하십시오.'];
+        }
+
+        if (this.student && !this.university) {
+          errors.university = ['대학 이름을 입력하십시오.'];
+        }
+
+        if (!this.country) {
+          errors.country = ['국가를 선택하십시오.'];
+        }
+
+        if (!this.postal_code) {
+          errors.postal_code = ['우편번호를 입력하십시오.'];
+        }
+
+        this.errors = errors;
+      }
+    }
+  })
+}, false)
+</script>

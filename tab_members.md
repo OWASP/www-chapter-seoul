@@ -19,3 +19,7 @@ OWASP Seoul Chapter 4기 운영진을 현재 아래와 같이 구성하여 운�
   - 대외협력 : 권준 이사, 송상준 팀장, 이다인
 
 운영진 및 회원 참여 문의 : [박형근 이사](mailto:mirrk1@gmail.com)
+
+<hr class="mobile">
+
+{% include membership.md %}

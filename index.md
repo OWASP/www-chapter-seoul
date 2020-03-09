@@ -18,9 +18,10 @@ OWASP Seoul Chapter는 국내 소프트웨어, 애플리케이션, 웹 보안 �
 </p>
 <br>
 <br>
-## **"OWASP Korea Day 2019" 개최**
 
-<img src="/assets/images/OWASP_Korea_Day_2019.jpg" alt="OWASP Korea Day 2019">
+# **"OWASP Korea Day 2019" 개최**
+
+<img src="./assets/images/OWASP_Korea_Day_2019.jpg" alt="OWASP Korea Day 2019">
 
   - 행 사 일 시 : 2019년 11월 02일(토), 13:30 ~ 20:00
   - 행 사 장 소 : 서울시 강남구 밤고개로5길 13 수산빌딩 지하1층 대회의실, [위치](http://naver.me/5O4wOPys){: target="_blank"} (지하철 3호선/분당선 수서역 1,4번 출구)
