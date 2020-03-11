@@ -18,7 +18,11 @@ OWASP Seoul Chapter는 국내 소프트웨어, 애플리케이션, 웹 보안 �
 </p>
 <br>
 <br>
+# 최신 소식
+- 2020년 03월 07일 : OWASP Mobile Application Security Verification Standard(MASVS) v1.2 국제 릴리스 ([다운로드](https://github.com/OWASP-Seoul/owasp/blob/master/OWASP%20Project/OWASP_MASVS-1.2-ko.pdf))
 
+<br>
+<br>
 # **"OWASP Korea Day 2019" 개최**
 
 <img src="./assets/images/OWASP_Korea_Day_2019.jpg" alt="OWASP Korea Day 2019">
