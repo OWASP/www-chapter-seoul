@@ -2,53 +2,44 @@
 
 layout: col-sidebar
 title: OWASP Seoul
-tags: example-tag
-level: 0
-
-region: Middle East
-
-auto-migrated: 1
+tags: Seoul
+region: Asia
 
 ---
 
+# Introduction
 
-<!-- Standard Chapter Page Template
-This is an example of a Project or Chapter page.
-Please change these items to indicate the actual information you wish to present. In addition to this information, the 'front-matter' above the text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+<p style='text-align: justify;'>
+OWASP (Open Web Application Security Project)는 전 세계 기업, 교육기관 및 개인이 만들어가는 오픈 소스 어플리케이션 보안 프로젝트로서 1984년 4월 안전한 웹 및 응용을 개발할 수 있도록 지원하기 위해 미국에서 비영리 단체로 출발하였습니다. OWASP는 중립적, 실무적이면서도 비용 효과적인 어플리케이션 보안 가이드라인을 무료로 제공하고 있으며, 이러한 가이드라인은 지난 10년간 웹 및 어플리케이션 보안분야에서 사실 표준이 되고 있으며 지금도 발전하고 있습니다.<br>
+<br>
+저희 Chapter는 2010년 11월 설립 위원회를 구성하여 첫 회의 후, 2011년 1월부터 OWASP Korea Chapter 1기 운영진, 2013년 6월 2기 운영진, 2015년 2월 3기 운영진으로 운영되다가 한동안 공백기가 있었으나, 2018년 7월 4기 운영진을 재구성하여 본부에 재시작 요청하였으며, 이에 2019년 3월 OWASP Seoul Chapter로서 재시작하게 되었습니다.<br>
+<br>
+OWASP Seoul Chapter는 국내 소프트웨어, 애플리케이션, 웹 보안 향상을 위해 각종 문서 발간, 프로젝트 진행, 워크샵, 세미나 및 컨퍼런스 등의 행사를 개최하고 있사오니 국내ㆍ외 소프트웨어 개발자, 웹 애플리케이션 개발자, 정부기관 및 소프트웨어 기업에서 많은 관심과 지원을 바랍니다.
+</p>
+<br>
+<br>
 
-{front matter for this file}
+# **"OWASP Korea Day 2019" 개최**
 
-```
-- layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
-- title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
-- tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
-- region: This is the region you are in according to our data
-```
+<img src="./assets/images/OWASP_Korea_Day_2019.jpg" alt="OWASP Korea Day 2019">
 
-{copy for this file (index.md)}
-Replace the text above the commented area with your information in the format below:
-```
-## Welcome
-Include some information here about your chapter
-
-## Participation
-The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
-
-Chapters are led by local leaders in accordance with the [Chapter Leader Handbook](/www-policy/rules-of-procedure/chapter-handbook). Financial contributions should only be made online using the authorized online donation button. To be a SPEAKER at ANY OWASP Chapter in the world simply review the [speaker agreement](/www-policy/speaker-agreement) and then contact the local chapter leader with details of what OWASP Project, independent research, or related software security topic you would like to present.
-
-Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
-
-## Local News
-- Meeting Location
-- Everyone is welcome to join us at our chapter meetings.
-
-```
-{info.md}
-
-This separate file is where you should place links to your Google Group and Meetup page. It will be automatically rendered in the column sidebar.
-
-{leaders.md}
-
-Another separate file that should simply include each leaders name with mailto link as a list. It will also be automatically rendered in the column sidebar.
-
--->
+  - 행 사 일 시 : 2019년 11월 02일(토), 13:30 ~ 20:00
+  - 행 사 장 소 : 서울시 강남구 밤고개로5길 13 수산빌딩 지하1층 대회의실, [위치](http://naver.me/5O4wOPys){: target="_blank"} (지하철 3호선/분당선 수서역 1,4번 출구)
+  - 행 사 후 원 : [(주)수산아이앤티](https://www.soosanint.com/){: target="_blank"}, [한국CISSP협회](https://isc2chapter.kr){: target="_blank"}<br>
+    * 행사장에 주차가 되지 않으니 가급적 대중교통을 이용하시기 바랍니다.
+  - 참 가 비 용 : OWASP 국내외 회원 여부와 관계 없이 1만원
+  - 입 금 안 내 : 79791521270 카카오뱅크
+  - 행 사 등 록 : [참가 신청하기](https://forms.gle/4VJH9ZHqP6d8iUKGA){: target="_blank"}
+  - 행 사 문 의 : [최형순 대표리더](mailto:hyungsoon.choi@owasp.org), [김태균](mailto:taegyun.kim@owasp.or.kr), [김상효](mailto:1knpno1@gmail.com)
+  - 발 표 자 료 :
+    - OWASP 연혁 및 활동 계획 - 최형순 대표리더(챕터 분과) :
+        [다운로드](https://github.com/OWASP-Seoul/owasp-event/raw/master/OWASP%20Korea%20Day%202019/OWASP%20Korea%20Day%202019.ppt)
+    - OWASP 프로젝트 소개 - 전영재 리더(프로젝트 분과) :
+        [다운로드](https://github.com/OWASP-Seoul/owasp-event/raw/master/OWASP%20Korea%20Day%202019/OWASP%20Project%20Introduction%20-%20Youngjae_Jeon.pptx)
+    - SQL Injection 최신 취약점 사례 - 유현수 팀장(컨퍼런스 분과) :
+        [다운로드](https://github.com/OWASP-Seoul/owasp-event/raw/master/OWASP%20Korea%20Day%202019/OWASP%20Seoul2019.SQL_Injection.pptx)
+    - Hypervisor를 이용한 웹 서버 보안 - 정회찬 수석(수산아이앤티) :
+        [다운로드](https://github.com/OWASP-Seoul/owasp-event/raw/master/OWASP%20Korea%20Day%202019/OWASP%20Seoul%20%EB%B0%9C%ED%91%9C_%EC%A0%95%ED%9A%8C%EC%B0%AC.pptx)
+    - 오픈검색서비스(OSINT) API를 활용한 보안과 개발 - 조정원 팀장(프로젝트 분과) :
+        [다운로드](https://github.com/OWASP-Seoul/owasp/raw/master/OWASP%20Korea%20Day%202019/%EC%98%A4%ED%94%88%20%EA%B2%80%EC%83%89%20%EC%84%9C%EB%B9%84%EC%8A%A4(OSINT)%20API%EB%A5%BC%20%ED%99%9C%EC%9A%A9%ED%95%9C%20%EB%B3%B4%EC%95%88%EA%B3%BC%20%EA%B0%9C%EB%B0%9C_%EB%B0%B0%ED%8F%AC.pptx)
+    - Security by Design - 김영숙 리더(산업 분과) : 다운로드
