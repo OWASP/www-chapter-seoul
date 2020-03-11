@@ -19,17 +19,12 @@ OWASP Seoul Chapter는 국내 소프트웨어, 애플리케이션, 웹 보안 �
 <br>
 <br>
 # 최신 소식
-- 2020년 03월 07일 : OWASP Mobile Application Security Verification Standard(MASVS) v1.2 국제 릴리스 ([다운로드](https://github.com/OWASP-Seoul/owasp/blob/master/OWASP%20Project/OWASP_MASVS-1.2-ko.pdf))
-- 2019년 11월 02일 : OWASP Korea Day 2019 개최
+- 2020년 3월 7일 : OWASP Mobile Application Security Verification Standard(MASVS) v1.2 국제 릴리스 ([다운로드](https://github.com/OWASP-Seoul/owasp/blob/master/OWASP%20Project/OWASP_MASVS-1.2-ko.pdf))
+- 2019년 11월 2일 : OWASP Korea Day 2019 개최
   &nbsp;&nbsp;&nbsp;<img src="./assets/images/OWASP_Korea_Day_2019.jpg" width="500" alt="OWASP Korea Day 2019">
   - 행 사 일 시 : 2019년 11월 02일(토), 13:30 ~ 20:00
   - 행 사 장 소 : 서울시 강남구 밤고개로5길 13 수산빌딩 지하1층 대회의실, [위치](http://naver.me/5O4wOPys){: target="_blank"} (지하철 3호선/분당선 수서역 1,4번 출구)
   - 행 사 후 원 : [(주)수산아이앤티](https://www.soosanint.com/){: target="_blank"}, [한국CISSP협회](https://isc2chapter.kr){: target="_blank"}<br>
-    * 행사장에 주차가 되지 않으니 가급적 대중교통을 이용하시기 바랍니다.
-  - 참 가 비 용 : OWASP 국내외 회원 여부와 관계 없이 1만원
-  - 입 금 안 내 : 79791521270 카카오뱅크
-  - 행 사 등 록 : [참가 신청하기](https://forms.gle/4VJH9ZHqP6d8iUKGA){: target="_blank"}
-  - 행 사 문 의 : [최형순 대표리더](mailto:hyungsoon.choi@owasp.org), [김태균](mailto:taegyun.kim@owasp.or.kr), [김상효](mailto:1knpno1@gmail.com)
   - 발 표 자 료 :
     - OWASP 연혁 및 활동 계획 - 최형순 대표리더(챕터 분과) : [다운로드](https://github.com/OWASP-Seoul/owasp-event/raw/master/OWASP%20Korea%20Day%202019/OWASP%20Korea%20Day%202019.ppt)
     - OWASP 프로젝트 소개 - 전영재 리더(프로젝트 분과) : [다운로드](https://github.com/OWASP-Seoul/owasp-event/raw/master/OWASP%20Korea%20Day%202019/OWASP%20Project%20Introduction%20-%20Youngjae_Jeon.pptx)
