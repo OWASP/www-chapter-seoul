@@ -22,7 +22,7 @@ OWASP Seoul Chapter는 국내 소프트웨어, 애플리케이션, 웹 보안 �
 - 2020년 3월 7일 : OWASP Mobile Application Security Verification Standard(MASVS) v1.2 국제 릴리스 ([다운로드](https://github.com/OWASP-Seoul/owasp/blob/master/OWASP%20Project/OWASP_MASVS-1.2-ko.pdf))
 - 2019년 11월 2일 : OWASP Korea Day 2019 개최
 
-  &nbsp;&nbsp;&nbsp;<img src="./assets/images/OWASP_Korea_Day_2019.jpg" width="500" alt="OWASP Korea Day 2019">
+<center><img src="./assets/images/OWASP_Korea_Day_2019.jpg" width="70%" alt="OWASP Korea Day 2019"></center>
   
   - 행 사 일 시 : 2019년 11월 02일(토), 13:30 ~ 20:00
   - 행 사 장 소 : 서울시 강남구 밤고개로5길 13 수산빌딩 지하1층 대회의실, [위치](http://naver.me/5O4wOPys){: target="_blank"} (지하철 3호선/분당선 수서역 1,4번 출구)
