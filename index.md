@@ -1,10 +1,9 @@
 ---
-
 layout: col-sidebar
 title: OWASP Seoul
 tags: Seoul
+level: 0
 region: Asia
-
 ---
 
 
