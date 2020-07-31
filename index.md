@@ -3,7 +3,11 @@ layout: col-sidebar
 title: OWASP Seoul
 tags: Seoul
 level: 0
-region: Asia
+region: Asi
+meetup-group: meetup-group-CLBZfMfm
+country: Korea (South)
+postal-code: 
+
 ---
 
 
