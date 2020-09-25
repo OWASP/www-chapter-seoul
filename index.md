@@ -22,6 +22,7 @@ OWASP Seoul Chapter는 국내 소프트웨어, 애플리케이션, 웹 보안 �
 </p>
 <br>
 <br>
+#RecentNews
 # Recent News  
 ---  
 #### * 2020년 10월 08일 : OWASP Seoul Conference 2020 개최
