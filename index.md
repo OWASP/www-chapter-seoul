@@ -24,7 +24,25 @@ OWASP Seoul Chapter는 국내 소프트웨어, 애플리케이션, 웹 보안 �
 <br>
 # Recent News  
 ---  
-#### * 2020년 3월 7일 : OWASP Mobile Application Security Verification Standard(MASVS) v1.2 릴리스 ([다운로드](https://github.com/OWASP-Seoul/owasp/blob/master/OWASP%20Project/OWASP_MASVS-1.2-ko.pdf))
+#### * 2020년 10월 08일 : OWASP Seoul Conference 2020 개최  
+  - 행사일시 : 2020년 10월 08일(금), 19:00 ~ 21:30
+  - 행사장소 : 온라인(Zoom)
+  - 참가대상 : 국내외 소프트웨어 개발자, 웹 애플리케이셔 개발자, 정부기관 및 소프트웨어 기업 담당자 등
+  - 참가신청 : https://www.onoffmix.com/event/224714
+  - 참가비용 : 무료
+  - 프로그램 : 
+    |    행사 시간    |                    발표 주제                    |           발표자          |
+    | ------------- | -------------------------------------------  | ----------------------- |
+    | 19:00 ~ 19:10 | 인사말                                         |   사회자                  |
+    | 19:10 ~ 19:40 | 해킹대회 뒷 이야기                                |   박세준 대표(티오리)        |
+    | 19:40 ~ 20:10 | 취약점 분석을 통해 본 안전한 메신저 뒷 설계             |   박세준 대표(티오리)        |
+    | 20:10 ~ 20:40 | 비대면 시대의 엔드포인트 위협 헌팅(Threat Hunting)    |   노용환 대표(쏘마)         |
+    | 20:40 ~ 21:10 | 컨텐츠 보안의 새로운 발상                           |   이준영 대표(리마보안연구소)  |
+
+<center><img src="./assets/images/OWASP_Seoul_Conference_2020.jpg" width="80%"></center>
+
+
+#### * 2020년 03월 07일 : OWASP Mobile Application Security Verification Standard(MASVS) v1.2 릴리스 ([다운로드](https://github.com/OWASP-Seoul/owasp/blob/master/OWASP%20Project/OWASP_MASVS-1.2-ko.pdf))
 #### * 2019년 11월 2일 : OWASP Korea Day 2019 개최  
 <center><img src="./assets/images/OWASP_Korea_Day_2019.jpg" width="80%"></center>
   - 행사일시 : 2019년 11월 02일(토), 13:30 ~ 20:00
