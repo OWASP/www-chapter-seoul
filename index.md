@@ -25,7 +25,7 @@ OWASP Seoul Chapter는 국내 소프트웨어, 애플리케이션, 웹 보안 �
 
 # Recent News  
 ---  
-#### * 2020년 10월 08일 : OWASP Seoul Conference 2020 개최
+#### * 2020년 10월 08일 : OWASP Seoul Conference 2020
 OWASP 코리아 챕터는 국내 소프트웨어, 응용, 웹 보안 향상을 위해 "OWASP SEOUL CONFERENCE 2020" 행사를 아래와 같이 개최하고자 하오니 국내외 소프트웨어 개발자, 웹 응용 개발자 분들의 많은 관심과 참여를 바랍니다.
 OWASP Seoul Chapter intends to hold the "OWASP SEOUL CONFERENCE 2020" event as follows to improve domestic software, application, and web security. We hope that domestic and foreign software developers and web application developers are interested in and participate.
 
