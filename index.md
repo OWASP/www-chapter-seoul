@@ -27,11 +27,14 @@ OWASP Seoul Chapter는 국내 소프트웨어, 애플리케이션, 웹 보안 �
 ---  
 #### * 2020년 10월 08일 : OWASP Seoul Conference 2020 개최
 OWASP 코리아 챕터는 국내 소프트웨어, 응용, 웹 보안 향상을 위해 "OWASP SEOUL CONFERENCE 2020" 행사를 아래와 같이 개최하고자 하오니 국내외 소프트웨어 개발자, 웹 응용 개발자 분들의 많은 관심과 참여를 바랍니다.
-  - 행사일시 : 2020년 10월 08일(금), 19:00 ~ 21:30
-  - 행사장소 : 온라인(Zoom) - ([행사입장](https://vo.la/IwmTc){: target="_blank"})
+OWASP Seoul Chapter intends to hold the "OWASP SEOUL CONFERENCE 2020" event as follows to improve domestic software, application, and web security. We hope that domestic and foreign software developers and web application developers are interested in and participate.
+
+- 행사일시(When) : 2020.10.08(Fri), 19:00 ~ 21:30(KST)
+  - 행사장소(Where) : 온라인(Zoom) - ([행사입장](https://vo.la/IwmTc){: target="_blank"})
   - 참가대상 : 국내외 소프트웨어 개발자, 웹 애플리케이셔 개발자, 정부기관 및 소프트웨어 기업 담당자 등
-  - 참가신청 : ([온오프믹스](https://www.onoffmix.com/event/224714){: target="_blank"})
-  - 참가비용 : 무료
+  - Participation Target: Domestic and foreign software developers, web application developers, government agencies and software company managers, etc.
+  - 참가신청(Apply) : ([https://www.onoffmix.com/event/224714](https://www.onoffmix.com/event/224714){: target="_blank"})
+  - 참가비용(Cost) : 무료(free of charge)
 
 <center><img src="./assets/images/OWASP_Seoul_Conference_2020.jpg" width="80%"></center>
 
