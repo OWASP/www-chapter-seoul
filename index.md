@@ -34,7 +34,7 @@ OWASP Seoul Chapter intends to hold the "OWASP SEOUL CONFERENCE 2020" event as f
   - 대상(Participation Target)
     - 국내외 소프트웨어/웹 애플리케이션 개발자 및 정부 기관소프트웨어 회사 직원 등
       (Domestic and foreign software/web application developers and government agencies/software company employees, etc.)
-  - 신청(Apply) : ([https://www.onoffmix.com/event/224714](https://www.onoffmix.com/event/224714){: target="_blank"})
+  - 신청(Apply) : [https://www.onoffmix.com/event/224714](https://www.onoffmix.com/event/224714){: target="_blank"}
   - 비용(Cost) : 무료(free of charge)
 <br>
 <center><img src="./assets/images/OWASP_Seoul_Conference_2020_0927.jpeg" width="80%"></center>
