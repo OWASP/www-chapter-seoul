@@ -37,7 +37,7 @@ OWASP Seoul Chapter intends to hold the "OWASP SEOUL CONFERENCE 2020" event as f
   - 신청(Apply) : ([https://www.onoffmix.com/event/224714](https://www.onoffmix.com/event/224714){: target="_blank"})
   - 비용(Cost) : 무료(free of charge)
 <br>
-<center><img src="./assets/images/OWASP_Seoul_Conference_2020.jpg" width="80%"></center>
+<center><img src="./assets/images/OWASP_Seoul_Conference_2020.jpeg" width="80%"></center>
 <br>
 #### * 2020년 03월 07일 : OWASP Mobile Application Security Verification Standard(MASVS) v1.2 릴리스 ([다운로드](https://github.com/OWASP-Seoul/owasp/blob/master/OWASP%20Project/OWASP_MASVS-1.2-ko.pdf))
 <br>
