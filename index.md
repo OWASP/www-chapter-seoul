@@ -37,5 +37,5 @@ OWASP Seoul Chapter intends to hold the "OWASP SEOUL CONFERENCE 2020" event as f
   - 신청(Apply) : [https://www.onoffmix.com/event/224714](https://www.onoffmix.com/event/224714){: target="_blank"}
   - 비용(Cost) : 무료(free of charge)
 <br>
-<center><img src="./assets/images/OWASP_Seoul_Conference_2020_0927.jpeg" width="80%"></center>
+<center><img src="./assets/images/8F4C5CC3-C2BA-433D-B4C3-1A71577582DF.jpeg" width="80%"></center>
 <br>
