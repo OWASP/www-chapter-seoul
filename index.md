@@ -42,8 +42,6 @@ OWASP Seoul Chapter intends to hold the "OWASP SEOUL CONFERENCE 2020" event as f
 
 # Meetup Events:
 ---  
-![meetup](assets/images/meetup-logo-160x65.png)
-
 We are on Meetup. For the list of latest events please join our community [www.meetup.com/OWASP-Los-Angeles](https://www.meetup.com/meetup-group-CLBZfMfm/)
 {% include chapter_events.html group=page.meetup-group %}
 
