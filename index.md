@@ -40,7 +40,7 @@ The OWASP Seoul Chapter will hold the "OWASP SEOUL CONFERENCE 2021" event under 
 We hope that many of you who are interested in the event will participate.
 <br><br>
 
-- Event Overview
+< Event Overview >
   - 일시(When) : 2021.11.17(Wed) 19:00 ~ 21:00, KST
   - 장소(Where) : Online(Zoom) - ([행사종료])
   - 대상(Participation Target)
@@ -49,7 +49,7 @@ We hope that many of you who are interested in the event will participate.
   - 비용(Cost) : 무료(free of charge)
 <br><br>
 
-- Event Program
+< Event Program >
   - 주제#1 : IoT 서비스에서의 사용자 보안 인증 동향
     - 발표자 : (주)듀얼오스 우종현 대표(DualAuth Jonghyun Woo CEO)
   - 주제#2 : 5G 엣지환경에서의 보안 위협 (Security Threats in 5G Edge Environments)
