@@ -61,5 +61,5 @@ We hope that many of you who are interested in the event will participate.
     - 발표자 : Checkmarx Korea 송대근 지사장 (Greg Song Korea Country Manager)
 <br><br>
 
-<center><img src="./assets/images/OWASP_Seoul_Conference_2021.jpeg" width="80%"></center>
+<center><img src="./assets/images/OWASP_Seoul_Conference_2021.jpeg" width="90%"></center>
 <br>
