@@ -15,7 +15,7 @@ We hope that many of you who are interested in the event will participate.
 
 < Event Overview >
   - 일시(When) : 2021.11.17(Wed) 19:00 ~ 21:00, KST
-  - 장소(Where) : Online(Zoom) - ([행사종료])
+  - 장소(Where) : Online(Zoom) - 행사종료
   - 대상(Participation Target)
     - 국내외 AIOT 보안에 관심 있으신 모든 분(Anyone interested in AIOT security at home and abroad)
   - 신청(Apply) : [https://www.meetup.com/ko-KR/OWASP-Seoul/events/280484529/](https://www.meetup.com/ko-KR/OWASP-Seoul/events/280484529/){: target="_blank"}
