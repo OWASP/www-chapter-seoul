@@ -2,7 +2,7 @@
 title: Members
 layout:  null
 tab: true
-order: 2
+order: 4
 tags: Seoul
 ---
 
