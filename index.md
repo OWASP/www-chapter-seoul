@@ -47,7 +47,7 @@ We hope that many of you who are interested in the event will participate.
   - 신청(Apply) : [https://www.meetup.com/ko-KR/OWASP-Seoul/events/280484529/](https://www.meetup.com/ko-KR/OWASP-Seoul/events/280484529/){: target="_blank"}
   - 비용(Cost) : 무료(free of charge)
 <br><br>
-< Event Program ></br>
+< Event Program ><br>
   - 주제#1 : IoT 서비스에서의 사용자 보안 인증 동향
     - 발표자 : (주)듀얼오스 우종현 대표(DualAuth Jonghyun Woo CEO)
   - 주제#2 : 5G 엣지환경에서의 보안 위협 (Security Threats in 5G Edge Environments)
