@@ -1,5 +1,6 @@
 ---
-title: OWASP Seoul Conference 2021
+title: Event2021
+displaytext: OWASP Seoul Conference 2021
 layout:  null
 tab: true
 order: 1
