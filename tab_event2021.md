@@ -7,7 +7,7 @@ tags: Seoul
 ---
 
 
-# * 2021년 11월 17일 : OWASP Seoul Conference 2021
+# OWASP Seoul Conference 2021
 OWASP Seoul Chapter에서 국내외 AIOT 보안 향상을 위해 "AIoT 융합 제품/서비스 보안 내재화"를 주제로 "OWASP SEOUL CONFERENCE 2021" 행사를 개최합니다. 행사에 관심 있으신 분들의 많은 참여 바랍니다.<br><br>
 The OWASP Seoul Chapter will hold the "OWASP SEOUL CONFERENCE 2021" event under the theme of "Security of AIoT Convergence Products/Services" to improve AIOT security at home and abroad.<br>
 We hope that many of you who are interested in the event will participate.
