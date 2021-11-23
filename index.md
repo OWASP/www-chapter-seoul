@@ -59,6 +59,7 @@ We hope that many of you who are interested in the event will participate.
     - 발표자 : 한국인터넷진흥원 이상걸 책임 (KISA Sanggeol Lee Principal Researcher)
   - 주제#4 : IoT 소프트웨어 공급망 보안 위협 (IoT Software Supply Chain Attack)
     - 발표자 : Checkmarx Korea 송대근 지사장 (Greg Song Korea Country Manager)
-<br>
+<br><br>
+
 <center><img src="./assets/images/OWASP_Seoul_Conference_2021.jpeg" width="80%"></center>
 <br>
