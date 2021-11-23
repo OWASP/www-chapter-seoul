@@ -34,17 +34,17 @@ We are on Meetup. For the list of latest events please join our community [https
 
 # Recent News  
 ---  
-#### * 2020년 10월 08일 : OWASP Seoul Conference 2020
-OWASP 서울 챕터는 국내 소프트웨어, 응용, 웹 보안 향상을 위해 "OWASP SEOUL CONFERENCE 2020" 행사를 아래와 같이 개최하고자 하오니 국내외 소프트웨어 개발자, 웹 응용 개발자 분들의 많은 관심과 참여를 바랍니다.<br>
-OWASP Seoul Chapter intends to hold the "OWASP SEOUL CONFERENCE 2020" event as follows to improve domestic software, application, and web security. We hope that domestic and foreign software developers and web application developers are interested in and participate.<br>
+#### * 2021년 11월 17일 : OWASP Seoul Conference 2021
+OWASP Seoul Chapter에서 국내외 AIOT 보안 향상을 위해 "AIoT 융합 제품/서비스 보안 내재화"를 주제로 "OWASP SEOUL CONFERENCE 2021" 행사를 개최합니다. 행사에 관심 있으신 분들의 많은 참여 바랍니다.<br>
+The OWASP Seoul Chapter will hold the "OWASP SEOUL CONFERENCE 2021" event under the theme of "Security of AIoT Convergence Products/Services" to improve AIOT security at home and abroad.<br>
+We hope that many of you who are interested in the event will participate.<br>
 <br>
-  - 일시(When) : 2020.10.08(Thu) 19:00~21:30, KST
-  - 장소(Where) : Online(Zoom) - ([행사입장](https://vo.la/IwmTc){: target="_blank"})
+  - 일시(When) : 2021.11.17(Wed) 19:00 ~ 21:00, KST
+  - 장소(Where) : Online(Zoom) - ([행사입장](https://url.kr/pn52f6){: target="_blank"})
   - 대상(Participation Target)
-    - 국내외 소프트웨어/웹 애플리케이션 개발자 및 정부 기관소프트웨어 회사 직원 등
-      (Domestic and foreign software/web application developers and government agencies/software company employees, etc.)
-  - 신청(Apply) : [https://www.onoffmix.com/event/224714](https://www.onoffmix.com/event/224714){: target="_blank"}
+    - 국내외 AIOT 보안에 관심 있으신 모든 분(Anyone interested in AIOT security at home and abroad)
+  - 신청(Apply) : [https://www.meetup.com/ko-KR/OWASP-Seoul/events/280484529/](https://www.meetup.com/ko-KR/OWASP-Seoul/events/280484529/){: target="_blank"}
   - 비용(Cost) : 무료(free of charge)
 <br>
-<center><img src="./assets/images/8F4C5CC3-C2BA-433D-B4C3-1A71577582DF.jpeg" width="80%"></center>
+<center><img src="./assets/images/OWASP_Seoul_Conference_2021.jpeg" width="80%"></center>
 <br>
