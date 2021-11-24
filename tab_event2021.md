@@ -26,6 +26,7 @@ We hope that many of you who are interested in the event will participate.
 < Event Program >
   - 주제#1 : IoT 서비스에서의 사용자 보안 인증 동향
     - 발표자 : (주)듀얼오스 우종현 대표(DualAuth Jonghyun Woo CEO)
+    - 발표자료 : [OWASP_Seoul_IoT서비스에서의 사용자보안인증_202111_ver1.0_발표.pdf](https://owasp.org/www-chapter-seoul/assets/files/OWASP_Seoul_IoT서비스에서의 사용자보안인증_202111_ver1.0_발표.pdf){: target="_blank"}
   - 주제#2 : 5G 엣지환경에서의 보안 위협 (Security Threats in 5G Edge Environments)
     - 발표자 : 한국전자통신연구원 김영수 책임 (ETRI Youngsoo Kim Principal Researcher)
     - 발표자료 : [김영수-5G엣지환경에서의 보안위협-OWASP-211117-배포용.pdf](https://owasp.org/www-chapter-seoul/assets/files/김영수-5G엣지환경에서의 보안위협-OWASP-211117-배포용.pdf){: target="_blank"}
