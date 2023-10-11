@@ -26,7 +26,7 @@ OWASP Seoul Chapter는 국내 소프트웨어, 애플리케이션, 웹 보안 �
 
 # Meetup Events
 ---  
-We are on Meetup. For the list of latest events please join our community (https://www.meetup.com/OWASP-Seoul){: target="_blank"}
+We are on Meetup. For the list of latest events please join our community [(https://www.meetup.com/OWASP-Seoul)](https://www.meetup.com/OWASP-Seoul){: target="_blank"}
 
 {% include chapter_events.html group=page.meetup-group %}
 
@@ -40,5 +40,5 @@ We are on Meetup. For the list of latest events please join our community (https
 그간 코로나로 인해 진행하지 못했던 오프라인 모임을 송년모임으로 진행하고자 합니다.<br>
 보다 자세한 내용은 정리되는대로 안내해 드리도록 하겠습니다.<br>
 참석을 희망하시는 분들께서는 아래 Meetup 이벤트를 통해 신청해 주시기 바랍니다.<br>
-신청(Apply) : (https://www.meetup.com/ko-KR/owasp-seoul/events/295901662/){: target="_blank"}
+신청(Apply) : [(https://www.meetup.com/ko-KR/owasp-seoul/events/295901662/)](https://www.meetup.com/ko-KR/owasp-seoul/events/295901662/){: target="_blank"}
 <br><br>
