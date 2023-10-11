@@ -26,7 +26,8 @@ OWASP Seoul Chapter는 국내 소프트웨어, 애플리케이션, 웹 보안 �
 
 # Meetup Events
 ---  
-We are on Meetup. For the list of latest events please join our community (https://www.meetup.com/OWASP-Seoul)
+We are on Meetup. For the list of latest events please join our community (https://www.meetup.com/OWASP-Seoul){: target="_blank"}
+
 {% include chapter_events.html group=page.meetup-group %}
 
 <br>
