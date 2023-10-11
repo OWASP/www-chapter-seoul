@@ -4,7 +4,7 @@ title: OWASP Seoul
 tags: Seoul
 level: 0
 region: Asia
-meetup-group: meetup-group-CLBZfMfm
+meetup-group: OWASP-Seoul-Chapter
 country: Korea (South)
 postal-code: 
 ---
