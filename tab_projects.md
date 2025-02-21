@@ -11,14 +11,21 @@ tags: Seoul
 관련 문의 : [전영재 (Youngjae Jeon)](mailto:youngjae.jeon@owasp.org)
 
   - OWASP Top 10 for LLM Applications 2025 한글본 (진행중)
+  - OWASP Firmware Security Testing Methodology v1.0 한글본
+    ([다운로드](https://github.com/OWASP-Seoul/owasp/raw/master/OWASP%20Project/Firmware_Security_Testing_Methodology_V1_Korean.pdf))
   - OWASP Mobile Application Security Verification Standard (MASVS) Release v1.2 한글본
     ([다운로드](https://github.com/OWASP-Seoul/owasp/raw/master/OWASP%20Project/OWASP_MASVS-1.2-ko.pdf))
   - OWASP Mobile Application Security Verification Standard (MASVS) v1.2RC 한글본
     ([다운로드](https://github.com/OWASP-Seoul/owasp/raw/master/OWASP%20Project/OWASP_MASVS_1.2RC-Korean.pdf))
   - OWASP Mobile App Security Checklist 한글본
     ([다운로드](https://github.com/OWASP/owasp-mstg/raw/master/Checklists/Mobile_App_Security_Checklist-Korean_1.1.2.xlsx))
-  - OWASP Top 10 2017 한글본 ([PDF](https://github.com/OWASP-Seoul/owasp/raw/master/OWASP%20Project/OWASP_Top_10-2017-ko.pdf)) ([PPTX](https://github.com/OWASP-Seoul/owasp/raw/master/OWASP%20Project/OWASP_Top_10-2017-ko.pptx?raw=true)) - 번역([시큐리티플러스](http://www.securityplus.or.kr/))
-  - OWASP Mobile Top 10 2016 한글본 ([다운로드](https://github.com/OWASP-Seoul/owasp/raw/master/OWASP%20Project/OWASP%20Mobile%20TOP%2010%20blackfalcon.pdf)) - 번역([BlackFalcon](https://speedr00t.tistory.com/))
+  - OWASP Top 10 2017 한글본
+    ([PDF](https://github.com/OWASP-Seoul/owasp/raw/master/OWASP%20Project/OWASP_Top_10-2017-ko.pdf))
+    ([PPTX](https://github.com/OWASP-Seoul/owasp/raw/master/OWASP%20Project/OWASP_Top_10-2017-ko.pptx?raw=true))
+    - 번역([시큐리티플러스](http://www.securityplus.or.kr/))
+  - OWASP Mobile Top 10 2016 한글본
+    ([다운로드](https://github.com/OWASP-Seoul/owasp/raw/master/OWASP%20Project/OWASP%20Mobile%20TOP%2010%20blackfalcon.pdf))
+    - 번역([BlackFalcon](https://speedr00t.tistory.com/))
   - OWASP Top 10 2013 한글본
     ([다운로드](https://github.com/OWASP-Seoul/owasp/raw/master/OWASP%20Project/OWASP_Top_10_-_2013_Final_-_Korean.pdf))
   - OWASP 시큐어 코딩 규칙 v2.0 한글본
