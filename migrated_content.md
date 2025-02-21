@@ -18,15 +18,17 @@ OWASP Seoul Chapter는 국내 소프트웨어, 애플리케이션, 웹 보안 �
 
 ## Regional Events
 
-  - [OWASP Korea Day 2019 워크샵 개최(2019년 11월 02일 13:30\~20:00, KST)](http://event.owasp.or.kr/)
-    OWASP Korea Day 2019 행사 후원사 [(주)수산아이앤티](https://www.soosanint.com/) [한국CISSP협회](https://isc2chapter.kr)
-  - [OWASP Korea Day 2015(2015년 6월 12일)](http://event.owasp.or.kr/koreaday2015)
+  - [OWASP Seoul Chapter 송년모임(2023년 11월 17일 19:00\~21:00, KST)]
+  - [OWASP SEOUL CONFERENCE 2021 개최(2021년 11월 17일 19:00\~21:00, KST)](https://owasp.org/www-chapter-seoul/#div-event2021)
+  - [OWASP SEOUL CONFERENCE 2020 개최(2020년 10월 08일 19:00\~21:30, KST)]
+  - [OWASP Korea Day 2019 워크샵 개최(2019년 11월 02일 13:30\~20:00, KST)]
+  - [OWASP Korea Day 2015(2015년 6월 12일)]
   - [OWASP Asia Tour Korea Conference(2014년 12월 19일)](https://www.owasp.org/index.php/AsiaTour2014#tab=Seoul)
-  - [OWASP Korea Day 2014(2014년 6월 17일)](http://event.owasp.or.kr/koreaday2014)
-  - [OWASP Korea Day 2013-2(2013년 7월 13일)](http://event.owasp.or.kr/2013-02)
-  - [OWASP Korea Day 2013-1(2013년 4월 27일)](http://event.owasp.or.kr/2013-01)
+  - [OWASP Korea Day 2014(2014년 6월 17일)]
+  - [OWASP Korea Day 2013-2(2013년 7월 13일)]
+  - [OWASP Korea Day 2013-1(2013년 4월 27일)]
   - [OWASP AppSec APAC 2013 행사 주관 (2013년 2월 19일 \~ 22일, 제주 하얏트 호텔)](https://www.owasp.org/index.php/AppSecAsiaPac2013)
-  - OWASP 코리아 챕터 세미나 개최 (2011년 10월, 서울 코엑스)
+  - [OWASP 코리아 챕터 세미나 개최(2011년 10월, 서울 코엑스)]
 
 Everyone is welcome to join us at our chapter meetings.
 
