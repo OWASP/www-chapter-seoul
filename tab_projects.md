@@ -1,9 +1,12 @@
 ---
+
 title: Projects
-layout:  null
+displaytext: Projects
+layout: col-sidebar
 tab: true
 order: 3
 tags: Seoul
+
 ---
 
 # Project
