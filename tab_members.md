@@ -1,9 +1,12 @@
 ---
-title: Members
-layout:  null
+
+title: members
+displaytext: Members
+layout: col-sidebar
 tab: true
 order: 4
 tags: Seoul
+
 ---
 
 # OWASP Seoul Chapter 운영진
