@@ -10,6 +10,7 @@ tags: Seoul
 
 관련 문의 : [전영재 (Youngjae Jeon)](mailto:youngjae.jeon@owasp.org)
 
+  - OWASP Top 10 for LLM Applications 2025 한글본 (진행중)
   - OWASP Mobile Application Security Verification Standard (MASVS) Release v1.2 한글본
     ([다운로드](https://github.com/OWASP-Seoul/owasp/raw/master/OWASP%20Project/OWASP_MASVS-1.2-ko.pdf))
   - OWASP Mobile Application Security Verification Standard (MASVS) v1.2RC 한글본
