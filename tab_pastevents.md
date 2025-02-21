@@ -9,6 +9,7 @@ tags: Seoul
 
 ## 지난 행사
 
+- [OWASP Seoul Chapter 송년모임(2023년 11월 17일 19:00\~21:00, KST)]
 - [OWASP SEOUL CONFERENCE 2021 개최(2021년 11월 17일 19:00\~21:00, KST)](https://owasp.org/www-chapter-seoul/#div-event2021){: target="_blank"}
 - [OWASP SEOUL CONFERENCE 2020 개최(2020년 10월 08일 19:00\~21:30, KST)]
 - [OWASP Korea Day 2019 워크샵 개최(2019년 11월 02일 13:30\~20:00, KST)]
