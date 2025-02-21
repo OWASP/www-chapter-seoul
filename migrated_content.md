@@ -5,7 +5,7 @@ title: OWASP Seoul
 tags: example-tag
 level: 0
 
-region: Middle East
+region: Asia/Pacific
 
 
 ---
