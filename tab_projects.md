@@ -1,6 +1,6 @@
 ---
 
-title: Projects
+title: projects
 displaytext: Projects
 layout: col-sidebar
 tab: true
