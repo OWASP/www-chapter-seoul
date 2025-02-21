@@ -17,10 +17,10 @@ tags: Seoul
     ([다운로드](https://github.com/OWASP-Seoul/owasp/raw/master/OWASP%20Project/OWASP_MASVS_1.2RC-Korean.pdf))
   - OWASP Mobile App Security Checklist 한글본
     ([다운로드](https://github.com/OWASP/owasp-mstg/raw/master/Checklists/Mobile_App_Security_Checklist-Korean_1.1.2.xlsx))
-  - OWASP Top 10 2017 한글본 - 번역([시큐리티플러스](http://www.securityplus.or.kr/){: target="_blank"})
+  - OWASP Top 10 2017 한글본 - 번역([시큐리티플러스](http://www.securityplus.or.kr/))
     ([PDF](https://github.com/OWASP-Seoul/owasp/raw/master/OWASP%20Project/OWASP_Top_10-2017-ko.pdf))
     ([PPTX](https://github.com/OWASP-Seoul/owasp/raw/master/OWASP%20Project/OWASP_Top_10-2017-ko.pptx?raw=true))
-  - OWASP Mobile Top 10 2016 한글본 - 번역([BlackFalcon](https://speedr00t.tistory.com/){: target="_blank"})
+  - OWASP Mobile Top 10 2016 한글본 - 번역([BlackFalcon](https://speedr00t.tistory.com/))
     ([다운로드](https://github.com/OWASP-Seoul/owasp/raw/master/OWASP%20Project/OWASP%20Mobile%20TOP%2010%20blackfalcon.pdf))
   - OWASP Top 10 2013 한글본
     ([다운로드](https://github.com/OWASP-Seoul/owasp/raw/master/OWASP%20Project/OWASP_Top_10_-_2013_Final_-_Korean.pdf))
