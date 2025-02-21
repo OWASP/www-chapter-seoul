@@ -1,10 +1,12 @@
 ---
-title: Event2021
+
+title: event2021
 displaytext: OWASP Seoul Conference 2021
-layout:  null
+layout: col-sidebar
 tab: true
 order: 1
 tags: Seoul
+
 ---
 
 
