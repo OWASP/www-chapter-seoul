@@ -4,7 +4,7 @@ title: OWASP Seoul
 tags: Seoul
 level: 0
 region: Asia
-meetup-group: OWASP-Seoul-Chapter
+meetup-group: owasp-seoul
 country: Korea (South)
 postal-code: 
 ---
@@ -36,9 +36,6 @@ We are on Meetup. For the list of latest events please join our community [(http
 
 # Recent News  
 ---  
-#### * 2023.11.17(금) 19:00 ~ : OWASP Seoul Chapter 송년모임
-그간 코로나로 인해 진행하지 못했던 오프라인 모임을 송년모임으로 진행하고자 합니다.<br>
-보다 자세한 내용은 정리되는대로 안내해 드리도록 하겠습니다.<br>
-참석을 희망하시는 분들께서는 아래 Meetup 이벤트를 통해 신청해 주시기 바랍니다.<br>
-신청(Apply) : [(https://www.meetup.com/ko-KR/owasp-seoul/events/295901662/)](https://www.meetup.com/ko-KR/owasp-seoul/events/295901662/){: target="_blank"}
+#### * 2024.08.27(화) 18:30 ~ (GMT+9) : OWASP Seoul Chapter 운영진 회의
+2024년 OWASP Seoul Chapter 후반기 일정 및 신규 리더 교체 관련 회의<br>
 <br><br>
