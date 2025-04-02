@@ -9,7 +9,7 @@ country: Korea (South)
 postal-code: 
 ---
 
-<center><img src="./assets/images/IMG_0034.jpeg" width="90%"></center><br><br>
+<center><img src="./assets/images/IMG_0034.jpeg" width="90%"></center><br>
 
 # Introduction  
 ---  
