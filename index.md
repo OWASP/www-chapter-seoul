@@ -37,5 +37,5 @@ We are on Meetup. For the list of latest events please join our community [(http
 # Recent News  
 ---  
 #### * 2024.08.27(화) 18:30 ~ (GMT+9) : OWASP Seoul Chapter 운영진 회의
-2024년 OWASP Seoul Chapter 후반기 일정 및 신규 리더 교체 관련 회의<br>
+
 <br><br>
