@@ -14,7 +14,7 @@ postal-code:
 # Introduction  
 ---  
 <p style='text-align: justify;'>
-OWASP (Open Web Application Security Project)는 전 세계 기업, 교육기관 및 개인이 만들어가는 오픈 소스 어플리케이션 보안 프로젝트로서 1984년 4월 안전한 웹 및 응용을 개발할 수 있도록 지원하기 위해 미국에서 비영리 단체로 출발하였습니다. OWASP는 중립적, 실무적이면서도 비용 효과적인 어플리케이션 보안 가이드라인을 무료로 제공하고 있으며, 이러한 가이드라인은 지난 10년간 웹 및 어플리케이션 보안분야에서 사실 표준이 되고 있으며 지금도 발전하고 있습니다.<br>
+OWASP (Open Web Application Security Project)는 전 세계 기업, 교육기관 및 개인이 만들어가는 오픈소스 애플리케이션 보안 프로젝트로서 1984년 4월 안전한 웹 및 애플리케이션을 개발할 수 있도록 지원하기 위해 미국에서 비영리 단체로 출발하였습니다. OWASP는 중립적, 실무적이면서도 비용 효과적인 애플리케이션 보안 가이드라인을 무료로 제공하고 있으며, 이러한 가이드라인은 지난 10년간 웹 및 애플리케이션 보안분야에서 사실 표준이 되고 있으며 지금도 발전하고 있습니다.<br>
 <br>
 저희 Chapter는 2010년 11월 설립 위원회를 구성하여 첫 회의 후, 2011년 1월부터 OWASP Korea Chapter 1기 운영진, 2013년 6월 2기 운영진, 2015년 2월 3기 운영진으로 운영되다가 한동안 공백기가 있었으나, 2018년 7월 4기 운영진을 재구성하여 본부에 재시작 요청하였으며, 이에 2019년 3월 OWASP Seoul Chapter로서 재시작하게 되었습니다.<br>
 <br>
@@ -34,8 +34,7 @@ We are on Meetup. For the list of latest events please join our community [(http
 <br>
 
 
-# Recent News  
 ---  
-#### * 2024.08.27(화) 18:30 ~ (GMT+9) : OWASP Seoul Chapter 운영진 회의
+#### * 지난 행사와 관련된 정보는 [Past Events 탭](https://owasp.org/www-chapter-seoul/#div-pastevents)에서 확인하실 수 있습니다.
 
 <br><br>
