@@ -4,7 +4,7 @@ title: members
 displaytext: Members
 layout: col-sidebar
 tab: true
-order: 4
+order: 9
 tags: Seoul
 
 ---
