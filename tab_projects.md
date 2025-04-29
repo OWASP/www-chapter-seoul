@@ -4,7 +4,7 @@ title: projects
 displaytext: Projects
 layout: col-sidebar
 tab: true
-order: 3
+order: 8
 tags: Seoul
 
 ---
