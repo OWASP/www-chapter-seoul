@@ -4,7 +4,7 @@ title: pastevents
 displaytext: Past Events
 layout: col-sidebar
 tab: true
-order: 2
+order: 7
 tags: Seoul
 
 ---
