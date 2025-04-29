@@ -9,7 +9,7 @@ tags: Seoul
 
 ---
 
-<center><img src="/assets/images/600_527125076.webp?w=384" width="90%"></center>
+<center><img src="./assets/images/600_527125076.webp?w=384" width="90%"></center>
 
 #  세부 정보
 📢 OWASP Seoul Chapter에서 2025년 봄맞이 제1회 온라인 세미나를 개최합니다!
