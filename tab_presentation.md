@@ -9,6 +9,13 @@ tags: Seoul
 
 ---
 
+## OWASP Seoul Chapter 2025년 제1회 온라인 세미나
+  - 주제#1 : Non Human Identity Top 10 살펴보기
+    - 발표자 : 김동현 대표 (Cremit)
+    - 발표자료 : [OWASP Seoul - 김동현 Non Human Identity Top 10 살펴보기.pdf](./assets/files/OWASP Seoul - 김동현 Non Human Identity Top 10 살펴보기.pdf){: target="_blank"}
+  - 주제#2 : 버그바운티 도입 및 운영 101
+    - 발표자 : 홍성진 Staff Security Engineer (센드버드코리아)
+    - 발표자료 : [OWASP Seoul - 홍성진 버그바운티 도입 및 운영 101.pdf](./assets/files/OWASP Seoul - 홍성진 버그바운티 도입 및 운영 101.pdf){: target="_blank"}
 
 ## OWASP Seoul Conference 2021
   - 주제#1 : IoT 서비스에서의 사용자 보안 인증 동향
