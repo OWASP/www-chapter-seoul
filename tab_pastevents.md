@@ -9,6 +9,12 @@ tags: Seoul
 
 ---
 
+## 회의 기록
+서울 챕터에서 진행한 회의는 모두 녹화되며 회의록과 함께 제공됩니다.
+회의에는 OWASP 멤버쉽 유무와 관계없이 참여하실 수 있으며 OWASP 멤버의 경우 의결권이 부여됩니다.
+
+회의는 2주마다 화요일 20시부터 21시까지 진행됩니다.
+- OWASP Seoul Bi-Weekly meeting 06/03([회의록](https://docs.google.com/document/d/1msk6J_7PcjqE8ehv9uUXa07RPXxc1KrMcm2D0U8W7LI/edit?tab=t.0))
 
 ## 지난 행사
 
