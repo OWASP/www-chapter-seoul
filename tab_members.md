@@ -15,7 +15,7 @@ OWASP Seoul Chapter 5기 운영진을 현재 아래와 같이 구성하여 운�
   - 챕터리더: [곽진 대표리더](mailto:security@owasp.org), [전영재 리더](mailto:youngjae.jeon@owasp.org), [김동현 리더](mailto:ben.kim@owasp.org), [홍성진 리더](mailto:seongjin.hong@owasp.org)
   - 운 영 진: 이현정, 유현수
 
-운영진 참여, 회원 관련 및 가타 문의: [전영재 리더](mailto:youngjae.jeon@owasp.org)
+운영진 참여, 회원 관련 및 기타 문의: [전영재 리더](mailto:youngjae.jeon@owasp.org)
 
 <br><br>
 
