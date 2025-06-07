@@ -1,6 +1,6 @@
 ---
 
-title: event2025-2
+title: event2025-6
 displaytext: 2025년 6월 세미나
 layout: col-sidebar
 tab: true
