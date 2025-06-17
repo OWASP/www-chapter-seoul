@@ -12,7 +12,7 @@ tags: Seoul
 # OWASP Seoul Chapter 운영진
 
 OWASP Seoul Chapter 5기 운영진을 현재 아래와 같이 구성하여 운영중입니다. 운영진에 참여하기를 원하시는 분이나 기타 궁금하신 사항은 언제든지 문의하여 주시기 바랍니다. 운영진 참여시 OWASP 행사, 프로젝트 등 진행 시 우선적으로 참여할 수 있는 기회를 제공해 드리고 있습니다.
-  - 챕터리더: [곽진 대표리더](mailto:security@owasp.org), [전영재 리더](mailto:youngjae.jeon@owasp.org), [김동현 리더](mailto:ben.kim@owasp.org), [홍성진 리더](mailto:seongjin.hong@owasp.org)
+  - 챕터리더: [곽진 대표리더](mailto:jin.kwak@owasp.org), [전영재 리더](mailto:youngjae.jeon@owasp.org), [김동현 리더](mailto:ben.kim@owasp.org), [홍성진 리더](mailto:seongjin.hong@owasp.org)
   - 운 영 진: 이현정, 유현수
 
 운영진 참여, 회원 관련 및 기타 문의: [전영재 리더](mailto:youngjae.jeon@owasp.org)
