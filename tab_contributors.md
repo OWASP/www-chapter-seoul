@@ -26,7 +26,7 @@ The OWASP Seoul Chapter is sponsored by [Cremit](https://cremit.io/)
 
 OWASP 서울 챕터는 25년 6월부터 [Cremit](https://cremit.io/ko)의 후원을 받고 있습니다.
 
-<a href="https://cremit.io/"><img src="assets/images/sponsor-logo-1.png" alt="cremit.io"/></a>
+<a href="https://cremit.io/"><img src="assets/images/sponsor-logo-1.png" alt="cremit.io" width=50% height=50% /></a>
 
 OWASP 서울 챕터와 함께 안전한 소프트웨어 세상을 만들어갈 후원사를 모집합니다!
 OWASP(The Open Web Application Security Project) 서울 챕터는 웹 애플리케이션 보안의 중요성을 알리고, 개발자, 보안 전문가, 그리고 학생 등 누구나 참여하여 배우고 교류할 수 있는 열린 커뮤니티입니다. 저희는 정기적인 세미나와 컨퍼런스 개최를 통해 최신 보안 위협에 대한 정보를 공유하고 실질적인 해결책을 논의하는 장을 마련하고 있습니다.
