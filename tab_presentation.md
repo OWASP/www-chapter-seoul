@@ -9,6 +9,19 @@ tags: Seoul
 
 ---
 
+## OWASP Seoul Chapter 2025년 6월  세미나
+  - Recording: [녹화본](https://drive.google.com/file/d/1x7holYSPZsCYDhgR1WxPHsBCDEvd5rWt/view)
+  - 주제#1 : 보안 커리어 발전시키기: 나의 CISO 여정과 그 너머
+    - 발표자 : Yashvier Kosaraju - Sendbird CISO
+    - 발표자료 : [2025 June Yashvier Kosaraju - Advancing Your Security Career_ My CISO Journey & More](./assets/files/2025 June Yashvier Kosaraju - Advancing Your Security Career_ My CISO Journey & More.pdf){: target="_blank"}
+  - 주제#2 : SECURITY CAREER EVOLUTION: 19년 여정에서 얻은 인사이트
+    - 발표자 : 한현상 - AWS Sr. Security Consultant
+    - 발표자료 : [2025 June 한현상 - Security Career Evolution](./assets/files/2025 June 한현상 - Security Career Evolution.pdf){: target="_blank"}
+  - 장소 후원: [Dcamp](https://dcamp.kr)
+  - 케이터링 후원: [Sendbird](https://sendbird.com)
+  - 번역 후원: [Cuckoo](http://cuckoo.so/)
+
+
 ## OWASP Seoul Chapter 2025년 제1회 온라인 세미나
   - 주제#1 : Non Human Identity Top 10 살펴보기
     - 발표자 : 김동현 대표 (Cremit)
