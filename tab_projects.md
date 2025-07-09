@@ -13,7 +13,7 @@ tags: Seoul
 
 관련 문의 : [전영재 (Youngjae Jeon)](mailto:youngjae.jeon@owasp.org)
 
-  - OWASP Top 10 for LLM Applications 2025 한글본 (진행중) ([최종 검토본 다운로드](https://owasp.org/www-chapter-seoul/assets/files/LLMAll_ko-KR-2025-04-02.pdf){: target="_blank"})
+  - OWASP Top 10 for LLM Applications 2025 한글본 ([다운로드](https://owasp.org/www-chapter-seoul/assets/files/TopTenForLLM-ko_KR.pdf){: target="_blank"})
   - OWASP Firmware Security Testing Methodology v1.0 한글본 ([다운로드](https://github.com/OWASP-Seoul/owasp/raw/master/OWASP%20Project/Firmware_Security_Testing_Methodology_V1_Korean.pdf){: target="_blank"})
   - OWASP Mobile Application Security Verification Standard (MASVS) Release v1.2 한글본 ([다운로드](https://github.com/OWASP-Seoul/owasp/raw/master/OWASP%20Project/OWASP_MASVS-1.2-ko.pdf){: target="_blank"})
   - OWASP Mobile Application Security Verification Standard (MASVS) v1.2RC 한글본 ([다운로드](https://github.com/OWASP-Seoul/owasp/raw/master/OWASP%20Project/OWASP_MASVS_1.2RC-Korean.pdf){: target="_blank"})
