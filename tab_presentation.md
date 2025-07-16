@@ -1,7 +1,7 @@
 ---
 
 title: Presentation
-displaytext: 세미나 발표자료
+displaytext: 세미나 기록
 layout: col-sidebar
 tab: true
 order: 2
