@@ -36,6 +36,6 @@ We are on Meetup. For the list of latest events please join our community [(http
 
 
 ---  
-#### * 지난 행사와 관련된 정보는 [Seoul 탭](https://owasp.org/www-chapter-seoul/#div-seoul)에서 확인하실 수 있습니다.
+#### * 지난 행사와 관련된 정보는 [Seoul 탭](#div-seoul)에서 확인하실 수 있습니다.
 
 <br><br>
