@@ -25,7 +25,7 @@ tags: Seoul
     - 발표자 : DoMyBest 팀 - 김태영(화이트햇 스쿨 3기)
     - 발표자료 : [2025 Jul Do My Best 팀(김태영) - Windows Third-Party SW Kernel Driver LPE BugHunting ](./assets/files/2025 Jul Do My Best 팀(김태영) - Windows Third-Party SW Kernel Driver LPE BugHunting .pdf){: target="_blank"}
   - 장소 후원: [Dcamp](https://dcamp.kr)
-  - 케이터링 후원: [Hacky AI](http://hacky-ai.com/), [문석주][https://www.linkedin.com/in/seokjoo-mun-473704127/]
+  - 케이터링 후원: [Hacky AI](http://hacky-ai.com/), [문석주](https://www.linkedin.com/in/seokjoo-mun-473704127/)
   - 번역 후원: [Cuckoo](http://cuckoo.so/)
 
 
