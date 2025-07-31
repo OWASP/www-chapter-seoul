@@ -9,8 +9,28 @@ tags: Seoul
 
 ---
 
-## OWASP Seoul Chapter 2025년 6월  세미나
-  - Recording: [녹화본](https://drive.google.com/file/d/1x7holYSPZsCYDhgR1WxPHsBCDEvd5rWt/view)
+
+## OWASP Seoul Chapter 2025년 7월 세미나
+  - Recording: [녹화본-Youtube](https://youtu.be/lw7vOgRlEOE)
+  - 주제#1 : 해커들이 좋아하는 인증 환경은 따로 있다?
+    - 발표자 : Safe Us 팀 - 정민석, 김민곤(화이트햇 스쿨 3기)
+    - 발표자료 : [2025 Jul Safe Us팀(정민석, 김민곤) - 해커들이 좋아하는 인증 환경은 따로 있다](./assets/files/2025 Jul Safe Us팀(정민석, 김민곤) - 해커들이 좋아하는 인증 환경은 따로 있다_.pdf){: target="_blank"}
+  - 주제#2 : 보안의 공백지대: LLM Integrated Application Vulnerability
+    - 발표자 : 404 Not Found 퇴근 팀 - 김동환(화이트햇 스쿨 3기)
+    - 발표자료 : [2025 Jul 404 Not Found 퇴근 팀(김동환) - 보안의 공백지대_LLM Integrated Applicaiton Vulnerability](./assets/files/2025 Jul 404 Not Found 퇴근 팀(김동환) - 보안의 공백지대_LLM Integrated Applicaiton Vulnerability.pdf){: target="_blank"}
+  - 주제#3 : EmulParty Advance — Beyond x86 for Students : 경량 ISA 기반 오픈소스 보안 실습 아키텍처
+    - 발표자 : 에뮤르파티 팀 - 이재원, 조용(화이트햇 스쿨 3기)
+    - 발표자료 : [EmulPary Advanced 팀(이재원, 조용진) - Beyond x86 for Students _ 경량 ISA 기반 오픈소스 보안 실습 아키텍쳐](./assets/files/2025 Jul - EmulPary Advanced 팀(이재원, 조용진) - Beyond x86 for Students _ 경량 ISA 기반 오픈소스 보안 실습 아키텍쳐.pdf){: target="_blank"}
+  - 주제#4 : Windows Third-Party SW Kernel Driver LPE BugHunting
+    - 발표자 : DoMyBest 팀 - 김태영(화이트햇 스쿨 3기)
+    - 발표자료 : [2025 Jul Do My Best 팀(김태영) - Windows Third-Party SW Kernel Driver LPE BugHunting ](./assets/files/2025 Jul Do My Best 팀(김태영) - Windows Third-Party SW Kernel Driver LPE BugHunting .pdf){: target="_blank"}
+  - 장소 후원: [Dcamp](https://dcamp.kr)
+  - 케이터링 후원: [Hacky AI](http://hacky-ai.com/), [문석주][https://www.linkedin.com/in/seokjoo-mun-473704127/]
+  - 번역 후원: [Cuckoo](http://cuckoo.so/)
+
+
+## OWASP Seoul Chapter 2025년 6월 세미나
+  - Recording: [녹화본-Youtube](https://youtu.be/mdJ8qr6LyHg)
   - 주제#1 : 보안 커리어 발전시키기: 나의 CISO 여정과 그 너머
     - 발표자 : Yashvier Kosaraju - Sendbird CISO
     - 발표자료 : [2025 June Yashvier Kosaraju - Advancing Your Security Career_ My CISO Journey & More](./assets/files/2025 June Yashvier Kosaraju - Advancing Your Security Career_ My CISO Journey & More.pdf){: target="_blank"}
