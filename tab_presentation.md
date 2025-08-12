@@ -1,7 +1,7 @@
 ---
 
 title: Presentation
-displaytext: 세미나 기록
+displaytext: Past meetups
 layout: col-sidebar
 tab: true
 order: 2
