@@ -4,7 +4,7 @@ title: seoul
 displaytext: Seoul Chapter
 layout: col-sidebar
 tab: true
-order: 9
+order: 8
 tags: Seoul
 
 ---
