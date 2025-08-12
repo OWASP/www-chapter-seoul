@@ -19,8 +19,8 @@ Seoul Chapter는 2011년 1월부터 운영하고 있으며 OWASP Korea Chapter 1
 OWASP(Open Worldwide Application Security Project, 오와스프)는 소프트웨어 보안 향상에 중점을 둔 전 세계 비영리 자선 단체입니다. 저희의 목표는 소프트웨어 보안에 대해서 투명하게 공개하여 개인과 조직이 정보에 입각한 결정을 내릴 수 있도록 하는 것입니다. OWASP는 개인, 기업, 대학, 정부 기관 등 전 세계 다양한 조직에 대해 공정하고 실용적인 애플리케이션 보안 정보를 제공하려고 하고 있습니다. OWASP는 비슷한 목표를 가진 전문가들이 모여 커뮤니티가 되어 함께 운영되며, 애플리케이션 보안 관련 소프트웨어 도구와 문서를 제공합니다.
 OWASP 서울 챕터는 멤버 간 협업을 위한 Slack 채널과 카카오톡 오픈채팅방을 운영하고 있습니다.
 
-OWASP Slack 그룹에 참여하려면 [초대 링크](https://owasp.org/slack/invite)를 사용하시고, 서울 챕터 채널(#chapter-Seoul)에 입장하세요.
-서울 챕터 카카오톡 오픈채팅방 참여하기: [링크](https://open.kakao.com/o/gS5IxXxh)
+OWASP Slack 그룹에 참여하려면 [초대 링크](https://owasp.org/slack/invite){: target="_blank"}를 사용하시고, 서울 챕터 채널(#chapter-Seoul)에 입장하세요.
+서울 챕터 카카오톡 오픈채팅방 참여하기: [링크](https://open.kakao.com/o/gS5IxXxh){: target="_blank"}
 
 OWASP Seoul Chapter, free to join, open to all. We meet to discuss & demonstrate application security, tools & solutions.
 
@@ -30,8 +30,8 @@ The Open Worldwide Application Security Project (OWASP®) is a 501(c)(3) worldwi
 
 The OWASP Seoul Chapter has a Slack channel and a Kakaotalk open chat for member collaboration.
 
-Use invite to join the OWASP Slack group - [link](https://owasp.org/slack/invite) and join the Seoul Chapter channel - #chapter-Seoul
-Join the Seoul Chapter KakaoTalk open chat - [link](https://open.kakao.com/o/gS5IxXxh)
+Use invite to join the OWASP Slack group - [link](https://owasp.org/slack/invite){: target="_blank"} and join the Seoul Chapter channel - #chapter-Seoul
+Join the Seoul Chapter KakaoTalk open chat - [link](https://open.kakao.com/o/gS5IxXxh){: target="_blank"}
 
 
 # Meetup Events
