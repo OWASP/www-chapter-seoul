@@ -1,6 +1,6 @@
 ---
 
-title: Presentation
+title: pastevents
 displaytext: Past events
 layout: col-sidebar
 tab: true
