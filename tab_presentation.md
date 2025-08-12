@@ -61,3 +61,17 @@ tags: Seoul
     - 발표자 : 한국인터넷진흥원 이상걸 책임 (KISA Sanggeol Lee Principal Researcher)
   - 주제#4 : IoT 소프트웨어 공급망 보안 위협 (IoT Software Supply Chain Attack)
     - 발표자 : Checkmarx Korea 송대근 지사장 (Greg Song Korea Country Manager)
+   
+## 기타 행사
+- OWASP Seoul Chapter 송년모임(2023년 11월 17일 19:00\~, KST) ([자세히 보기](https://www.meetup.com/owasp-seoul/events/295901662/){: target="_blank"})
+- OWASP Seoul Conference 2021(2021년 11월 17일 19:00\~, KST) ([자세히 보기](https://www.meetup.com/ko-KR/owasp-seoul/events/280484529/){: target="_blank"})
+- OWASP Seoul Conference 2020(2020년 10월 08일 19:00\~, KST) ([자세히 보기](https://www.meetup.com/owasp-seoul/events/273498395/){: target="_blank"})
+- OWASP Seoul Online Meeting(2020년 4월 24일 12:40\~, KST) ([자세히 보기](https://www.meetup.com/owasp-seoul/events/270038687/){: target="_blank"})
+- OWASP Korea Day 2019(2019년 11월 02일 13:30\~, KST), 수산아이앤티 대회의실 ([자세히 보기](https://wiki.owasp.org/index.php/Seoul#tab=Events){: target="_blank"})
+- OWASP Korea Day 2015(2015년 6월 12일 12:30\~, KST), 부산 해운대 그랜드 호텔 ([자세히 보기](https://www.boannews.com/media/view.asp?idx=46330&page=1&kind=2){: target="_blank"})
+- OWASP Asia Tour Seoul Conference(2014년 12월 19일 12:30\~, KST), 서울 양재동 더케이호텔 ([자세히 보기](https://wiki.owasp.org/index.php/AsiaTour2014#tab=Seoul){: target="_blank"})
+- OWASP Korea Day 2014(2014년 6월 17일 13:00\~, KST), 서울 삼성동 코엑스 컨퍼런스룸(남) 300호 ([자세히 보기](https://www.boannews.com/media/view.asp?idx=41252&page=1&kind=3){: target="_blank"})
+- OWASP Korea Day 2013-2(2013년 7월 13일 09:00\~, KST), 한국무선인터넷산업연합회
+- OWASP Korea Day 2013-1(2013년 4월 27일 09:00\~, KST), 서울시 강남구 삼성동 164-3 JPLUS TOWER ([자세히 보기](https://www.boannews.com/media/view.asp?idx=35841&page=1&kind=3){: target="_blank"})
+- OWASP AppSec APAC 2013(2013년 2월 19일 \~ 22일, KST), 제주 하얏트 호텔 ([자세히 보기](https://wiki.owasp.org/index.php/AppSecAsiaPac2013){: target="_blank"})
+- OWASP 코리아 챕터 세미나(2011년 10월 19일, KST), 서울 삼성동 코엑스
