@@ -1,7 +1,7 @@
 ---
 
 title: event2025-7
-displaytext: 2025년 7월 세미나
+displaytext: July Meetup
 layout: col-sidebar
 tab: true
 order: 1
