@@ -1,10 +1,10 @@
 ---
 
-title: Contributors
-displaytext: Contributors & Chapter Sponsors
+title: Sponsors
+displaytext: Chapter Sponsors
 layout: col-sidebar
 tab: true
-order: 8
+order: 9
 tags: Seoul
 
 ---
