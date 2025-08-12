@@ -1,7 +1,7 @@
 ---
 
 title: seoul
-displaytext: Seoul
+displaytext: Seoul Chapter
 layout: col-sidebar
 tab: true
 order: 9
