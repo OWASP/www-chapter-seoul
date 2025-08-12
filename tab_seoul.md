@@ -30,7 +30,7 @@ OWASP Seoul Chapter 5기 운영진을 현재 아래와 같이 구성하여 운�
 
 ## 지난 행사
 
-- OWASP Seoul Chapter 2025년 6월 오프라인 세미나(2025년 6월 29일 19:00 ~ 21:00, KST) ([자세히 보기](https://www.meetup.com/owasp-seoul/)events/308298793/)
+- OWASP Seoul Chapter 2025년 6월 오프라인 세미나(2025년 6월 29일 19:00 ~ 21:00, KST) ([자세히 보기](https://www.meetup.com/owasp-seoul/events/308298793/){: target="_blank"})
 - OWASP Seoul Chapter 2025년 제1회 온라인 세미나(2025년 4월 29일 19:30\~, KST) ([자세히 보기](https://www.meetup.com/ko-KR/owasp-seoul/events/307060143/){: target="_blank"})
 - OWASP Seoul Chapter 운영진 회의(2024년 8월 27일 18:30\~, KST) ([자세히 보기](https://www.meetup.com/ko-KR/owasp-seoul/events/303059641/){: target="_blank"})
 - OWASP Seoul Chapter 송년모임(2023년 11월 17일 19:00\~, KST) ([자세히 보기](https://www.meetup.com/owasp-seoul/events/295901662/){: target="_blank"})
