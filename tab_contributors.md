@@ -1,7 +1,7 @@
 ---
 
 title: Contributors
-displaytext: Contributors
+displaytext: Contributors & Chapter Sponsors
 layout: col-sidebar
 tab: true
 order: 8
