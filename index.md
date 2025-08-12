@@ -9,7 +9,7 @@ country: Korea (South)
 postal-code: 
 ---
 
-<center><img src="./assets/images/OWASP_seoul_Title_2025_summer"></center><br>
+<center><img src="./assets/images/OWASP_seoul_Title_2025_summer.png"></center><br>
 
 # Introduction
 OWASP Seoul Chapter는 웹 애플리케이션을 포함한 다양한 애플리케이션의 보안 향상을 위해 문서 발간, 프로젝트 운영, 세미나 및 컨퍼런스 등의 행사를 개최하고 있으니 국내ㆍ외 소프트웨어 개발자와 정부기관 및 기업에서 많은 관심과 지원을 바랍니다.
