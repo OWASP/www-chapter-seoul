@@ -11,7 +11,7 @@ tags: Seoul
 
 # Project
 
-관련 문의 : [전영재 (Youngjae Jeon)](mailto:youngjae.jeon@owasp.org)
+관련 문의 : [서울 리더](mailto:seoul-leaders@owasp.org)
 
   - OWASP Top 10 for LLM Applications 2025 한글본 ([다운로드](https://owasp.org/www-chapter-seoul/assets/files/TopTenForLLM-ko_KR.pdf){: target="_blank"})
   - OWASP Firmware Security Testing Methodology v1.0 한글본 ([다운로드](https://github.com/OWASP-Seoul/owasp/raw/master/OWASP%20Project/Firmware_Security_Testing_Methodology_V1_Korean.pdf){: target="_blank"})
