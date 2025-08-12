@@ -45,6 +45,6 @@ We are on Meetup. For the list of latest events please join our community [(http
 
 
 ---  
-#### * 지난 행사와 관련된 정보는 세미나 기록 탭에서 확인하실 수 있습니다.
+#### * 지난 행사와 관련된 정보는 Past events 탭에서 확인하실 수 있습니다.
 
 <br><br>
