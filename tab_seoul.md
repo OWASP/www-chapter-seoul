@@ -27,6 +27,7 @@ OWASP Seoul Chapter 5기 운영진을 현재 아래와 같이 구성하여 운�
 회의에는 OWASP 멤버쉽 유무와 관계없이 참여하실 수 있으며 OWASP 멤버의 경우 의결권이 부여됩니다.
 
 회의는 2주마다 화요일 20시부터 21시까지 진행됩니다.
+- OWASP Seoul Bi-Weekly meeting 08/12([회의록](https://docs.google.com/document/d/1B9jdeJsO6pQcg4WokBX0gY2RN11IaR-p1FmEXR9Y_-A/) / [녹화록](https://drive.google.com/file/d/1HujBzhZYHc6XSBWAlRKKL69LI4njVLjR/view?usp=drive_link))
 - OWASP Seoul Bi-Weekly meeting 07/15([회의록](https://docs.google.com/document/d/15XSSo4ifog7lJUqzn2Ps1fySL8N7JJSDXfovJEyV8S4/edit?usp=drive_link) / [녹화록](https://drive.google.com/file/d/16kIplgyqc2ICrAShrxaRA-Xt5Zw5xNYi/view?usp=drive_link))
 - OWASP Seoul Bi-Weekly meeting 07/01([회의록](https://docs.google.com/document/d/1odXftjlcLSzGPINxih2dWbdnjVjmKPfJ3CEz3PM9cTg/edit?tab=t.0) / [녹화록](https://drive.google.com/file/d/1QM6uZTItJ4cwV-EB1jieFtUxuFh382Xr/view?usp=drive_link))
 - OWASP Seoul Bi-Weekly meeting 06/17([회의록](https://docs.google.com/document/d/1yWqUaWiUMOASoxx9y8aDP98yKdPxD_7gT5F4Tex8RxM/edit?tab=t.0) / [녹화록](https://drive.google.com/file/d/1lJC6eYsag2pJuXUElwX7-KuRbXXTyO9g/view?usp=sharing))
