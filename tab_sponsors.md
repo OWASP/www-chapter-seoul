@@ -4,7 +4,7 @@ title: Sponsors
 displaytext: Chapter Sponsors
 layout: col-sidebar
 tab: true
-order: 9
+order: 5
 tags: Seoul
 
 ---
