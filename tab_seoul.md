@@ -16,9 +16,7 @@ OWASP Seoul Chapter 5기 운영진을 현재 아래와 같이 구성하여 운�
 
 운영진 참여, 회원 관련 및 기타 문의: [서울 리더](mailto:seoul-leaders@owasp.org)
 
-<br><br>
-
-## 회의 기록
+# 회의 기록
 서울 챕터에서 진행한 회의는 모두 녹화되며 회의록과 함께 제공됩니다.
 회의에는 OWASP 멤버쉽 유무와 관계없이 참여하실 수 있으며 OWASP 멤버의 경우 의결권이 부여됩니다.
 
@@ -28,8 +26,7 @@ OWASP Seoul Chapter 5기 운영진을 현재 아래와 같이 구성하여 운�
 - OWASP Seoul Bi-Weekly meeting 06/17([회의록](https://docs.google.com/document/d/1yWqUaWiUMOASoxx9y8aDP98yKdPxD_7gT5F4Tex8RxM/edit?tab=t.0) / [녹화록](https://drive.google.com/file/d/1lJC6eYsag2pJuXUElwX7-KuRbXXTyO9g/view?usp=sharing))
 - OWASP Seoul Bi-Weekly meeting 06/03([회의록](https://docs.google.com/document/d/1msk6J_7PcjqE8ehv9uUXa07RPXxc1KrMcm2D0U8W7LI/edit?tab=t.0))
 
-## 지난 행사
-
+# 지난 행사
 - OWASP Seoul Chapter 2025년 6월 오프라인 세미나(2025년 6월 29일 19:00 ~ 21:00, KST) ([자세히 보기](https://www.meetup.com/owasp-seoul/events/308298793/){: target="_blank"})
 - OWASP Seoul Chapter 2025년 제1회 온라인 세미나(2025년 4월 29일 19:30\~, KST) ([자세히 보기](https://www.meetup.com/ko-KR/owasp-seoul/events/307060143/){: target="_blank"})
 - OWASP Seoul Chapter 운영진 회의(2024년 8월 27일 18:30\~, KST) ([자세히 보기](https://www.meetup.com/ko-KR/owasp-seoul/events/303059641/){: target="_blank"})
