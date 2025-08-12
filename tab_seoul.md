@@ -54,4 +54,3 @@ OWASP Foundation에 참여할 수 있는 많은 방법 중 하나는 글로벌 �
 글로벌 회원은 아래와 같은 3가지 유형으로 구분되어 있으며, 원하시는 유형으로 가입하여 참여하실 수 있습니다. 한국의 경우 50% 할인 받는 금액으로 가입하실 수 있습니다.
 - [개인 회원](https://owasp.glueup.com/organization/6727/memberships/){: target="_blank"} 
 - [기업 후원](https://owasp.org/supporters/){: target="_blank"}
-- [자유 후원](https://owasp.org/supporters/){: target="_blank"}
