@@ -9,18 +9,6 @@ tags: Seoul
 
 ---
 
-## Contributors
-
-서울 챕터의 운영에 도움을 주신분들입니다. 챕터 운영과 관련한 일, 서울 챕터 내에서 진행되는 이벤트에 기여하신 분들 등이 기록됩니다.
-
-| 이름 | 소속 | Contact | 활동내역 |
-| --- | --- | --- | --- |
-| 전영재 | 에스알센터 | [LinkedIn](https://www.linkedin.com/in/whitehat-kr/) | 서울 챕터 리더 (2019.03 ~ ) |
-| 곽 진 | 아주대학교 | [ISSA](https://isaa.re.kr/) | 서울 챕터 리더 (2025.05 ~ ) |
-| 홍성진 | Sendbird | [LinkedIn](https://www.linkedin.com/in/sjhk/) | 서울 챕터 리더 (2025.05 ~ ) |
-| 김동현 | Cremit | [LinkedIn](https://www.linkedin.com/in/ben-dh-kim/) | 서울 챕터 리더 (2025.05 ~ ) |
-
-
 ## Sponsors
 The OWASP Seoul Chapter is sponsored by [Cremit](https://cremit.io/)
 
