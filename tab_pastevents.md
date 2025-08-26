@@ -17,7 +17,7 @@ tags: Seoul
     - 발표자 : 박우현
     - 발표자료 : [2025 Aug 모여봐요, 번역의 숲 - 박우현](./assets/files/2025%20Aug%20-%20모여봐요%20번역의%20숲%20-%20박우현.pdf){: target="_blank"}
   - 장소 후원: [Dcamp](https://dcamp.kr)
-  - 케이터링 후원: [Hacky AI](http://hacky-ai.com/), [문석주](https://www.linkedin.com/in/seokjoo-mun-473704127/)
+  - 케이터링 후원: 정영훈
   - 번역 후원: [Cuckoo](http://cuckoo.so/)
 
 
