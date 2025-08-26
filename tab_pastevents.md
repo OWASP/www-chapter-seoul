@@ -8,6 +8,17 @@ order: 2
 tags: Seoul
 
 ---
+## OWASP Seoul Chapter 2025년 8월 세미나
+  - Recording: [녹화본-Youtube](https://youtu.be/iA1oKgw36PY)
+  - 주제#1: 오픈소스 가드닝 (Open Source Gardening) 
+    - 발표자 : HAHWUL(이현환)
+    - 발표자료 : [2025 Aug 오픈소스 가드닝 (Open Source Gardening) - HAHWUL(이현환)](./assets/files/2025%20Aug%20-%20Open%20Source%20Gardening%20-%20HAHWUL(이현환).pdf){: target="_blank"}
+  - 주제#2: 모여봐요, 번역의 숲
+    - 발표자 : 박우현
+    - 발표자료 : [2025 Aug 모여봐요, 번역의 숲 - 박우현](./assets/files/2025%20Aug%20-%20모여봐요%20번역의%20숲%20-%20박우현.pdf){: target="_blank"}
+  - 장소 후원: [Dcamp](https://dcamp.kr)
+  - 케이터링 후원: [Hacky AI](http://hacky-ai.com/), [문석주](https://www.linkedin.com/in/seokjoo-mun-473704127/)
+  - 번역 후원: [Cuckoo](http://cuckoo.so/)
 
 
 ## OWASP Seoul Chapter 2025년 7월 세미나
