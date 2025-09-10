@@ -26,18 +26,18 @@
             {
               dstr += "<hr>";
               dstr += "<section style='background-color:#f3f4f6;'>";
-              dstr += "<strong>Event: " + events[i]['node']['title'] + "</strong><br>";
-              dstr += "<strong>Date: " + (events[i]['node']['dateTime']).substring(0,10) + "</strong><br>";
-              dstr += "<strong>Time: " + (events[i]['node']['dateTime']).substring(11, 16) + " (" + events[i]['node']['timezone'] + ") </strong><br>";
-              dstr += "<strong>Link: <a href='" + events[i]['node']['eventUrl'] + "'>" + events[i]['node']['eventUrl'] + "</a></strong><br>";
-              dstr += "<strong>Description:</strong></section>";
+              dstr += "<strong>행사명: " + events[i]['node']['title'] + "</strong><br>";
+              dstr += "<strong>날짜: " + (events[i]['node']['dateTime']).substring(0,10) + "</strong><br>";
+              dstr += "<strong>시간: " + (events[i]['node']['dateTime']).substring(11, 16) + " (" + events[i]['node']['timezone'] + ") </strong><br>";
+              dstr += "<strong>링크: <a href='" + events[i]['node']['eventUrl'] + "'>" + events[i]['node']['eventUrl'] + "</a></strong><br>";
+              dstr += "<strong>설명:</strong></section>";
               var converter = new showdown.Converter();
               dstr += converter.makeHtml(events[i]['node']['description'].replaceAll('\n','<br/>'));
             }
             $("#ch_events_div").html(dstr);            
           }
           else{
-            dstr = "<hr><i>No events currently scheduled</i>"
+            dstr = "<hr><i>예정된 행사가 없습니다.</i>"
             $("#ch_events_div").html(dstr);
           }
         }      

@@ -36,7 +36,7 @@ Join the Seoul Chapter KakaoTalk open chat - [link](https://open.kakao.com/o/gS5
 
 # Meetup Events
 ---  
-We are on Meetup. For the list of latest events please join our community [(https://www.meetup.com/OWASP-Seoul)](https://www.meetup.com/OWASP-Seoul){: target="_blank"}
+예정된 밋업 정보 입니다. [(https://www.meetup.com/OWASP-Seoul)](https://www.meetup.com/OWASP-Seoul){: target="_blank"}
 
 {% include chapter_events.html group=page.meetup-group %}
 
