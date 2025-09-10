@@ -1,0 +1,48 @@
+<!-- this include file requires an include parameter group -->
+<div id='ch_events_div'>
+</div> 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/1.9.0/showdown.min.js"></script>
+<script type='text/javascript'>
+    $(function() {
+      // stuff here to load chapter events
+      var groupname = '{{ include.group }}';
+      var past = '{% if include.past %}{{ include.past }}{% else %}false{% endif %}';
+      
+
+      var status = 'upcoming';
+
+      if(past == 'true')
+        status = 'past';
+      
+        $.get("https://owaspadmin.azurewebsites.net/api/GetMeetupEvents?code=7OIbdfrvam1q5dbaZyN5JTZodrtWRHtnzBTtRB8ed1HT2Stax0iLNw==&group=" + groupname + "&status=" + status, function(data) {
+        var edata = JSON.parse(data);
+        if('data' in edata && 'proNetworkByUrlname' in edata['data'] && 'eventsSearch' in edata['data']['proNetworkByUrlname'] && 'edges' in edata['data']['proNetworkByUrlname']['eventsSearch'] )
+        {
+          var events = edata['data']['proNetworkByUrlname']['eventsSearch']['edges']
+          var dstr = "";
+          if(events.length > 0)
+          {
+            for(let i in events)
+            {
+              dstr += "<hr>";
+              dstr += "<section style='background-color:#f3f4f6;'>";
+              dstr += "<strong>Event: " + events[i]['node']['title'] + "</strong><br>";
+              dstr += "<strong>Date: " + (events[i]['node']['dateTime']).substring(0,10) + "</strong><br>";
+              dstr += "<strong>Time: " + (events[i]['node']['dateTime']).substring(11, 16) + " (" + events[i]['node']['timezone'] + ") </strong><br>";
+              dstr += "<strong>Link: <a href='" + events[i]['node']['eventUrl'] + "'>" + events[i]['node']['eventUrl'] + "</a></strong><br>";
+              dstr += "<strong>Description:</strong></section>";
+              var converter = new showdown.Converter();
+              dstr += converter.makeHtml(events[i]['node']['description'].replaceAll('\n','<br/>'));
+            }
+            $("#ch_events_div").html(dstr);            
+          }
+          else{
+            dstr = "<hr><i>No events currently scheduled</i>"
+            $("#ch_events_div").html(dstr);
+          }
+        }      
+      });
+
+    }); 
+
+  </script>
