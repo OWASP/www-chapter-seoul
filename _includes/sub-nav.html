@@ -42,27 +42,33 @@
   </ul>
 </nav>
 <script type='text/javascript'>
-  $(function() {
+  function updateTabFromHash() {
     if(window.location.href.indexOf('#') != -1)
      {
-        divid = window.location.href.substring(window.location.href.indexOf('#'))
-        secid = divid;
+        let divid = window.location.href.substring(window.location.href.indexOf('#'));
+        let secid = divid;
         if(divid.indexOf('div-') >= 0)
         {
           $('.tab-link').each(function () {
-            divid = '#sec-' + $(this).attr('id').toLowerCase().replace('-link', '');
-            $(divid).addClass('tab-hidden'); 
+            let tabDivId = '#sec-' + $(this).attr('id').toLowerCase().replace('-link', '');
+            $(tabDivId).addClass('tab-hidden'); 
             $(this).removeClass('current');
           });
 
           secid = secid.replace('div-', 'sec-');
           $(secid).removeClass('tab-hidden');
-          linkid = "#" + secid.substring(secid.indexOf('-') + 1) + "-link";
+          let linkid = "#" + secid.substring(secid.indexOf('-') + 1) + "-link";
           $(linkid).addClass('current'); 
-          
         }
-        
      }
+  }
+
+  $(function() {
+    updateTabFromHash();
+  });
+
+  window.addEventListener('popstate', function() {
+    updateTabFromHash();
   });
 
   $('.tab-link').click(function (e) {
@@ -70,11 +76,11 @@
     
     $('.tab-link').each(function () {
       $(this).removeClass('current');
-      divid = '#sec-' + $(this).attr('id').toLowerCase().replace('-link', '');
+      let divid = '#sec-' + $(this).attr('id').toLowerCase().replace('-link', '');
       $(divid).addClass('tab-hidden'); 
     });
 
-     divid = '#sec-' + $(this).attr('id').toLowerCase().replace('-link', '');
+     let divid = '#sec-' + $(this).attr('id').toLowerCase().replace('-link', '');
      $(this).addClass('current');
      $(divid).removeClass('tab-hidden');
 
