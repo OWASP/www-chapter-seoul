@@ -8,6 +8,7 @@ meetup-group: owasp-seoul
 country: Korea (South)
 postal-code: 
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iA1oKgw36PY?si=g4BeiKdgrNsnQZWZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <center><img src="./assets/images/OWASP_seoul_Title_2025_summer.png"></center><br>
 
