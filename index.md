@@ -9,6 +9,9 @@ country: Korea (South)
 postal-code: 
 ---
 
+<iframe width="100%" height="600" src="https://www.youtube.com/embed/iA1oKgw36PY?si=g4BeiKdgrNsnQZWZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen ></iframe>
+<br>
+
 <center><img src="./assets/images/OWASP_seoul_Title_2025_summer.png"></center><br>
 
 # Introduction
@@ -21,6 +24,7 @@ OWASP 서울 챕터는 멤버 간 협업을 위한 Slack 채널과 카카오톡 
 
 OWASP Slack 그룹에 참여하려면 [초대 링크](https://owasp.org/slack/invite){: target="_blank"}를 사용하시고, 서울 챕터 채널(#chapter-Seoul)에 입장하세요.
 서울 챕터 카카오톡 오픈채팅방 참여하기: [링크](https://open.kakao.com/o/gS5IxXxh){: target="_blank"}
+서울 챕터 링크드인  그룹 참여하기: [링크](https://www.linkedin.com/groups/14865013/)
 
 OWASP Seoul Chapter, free to join, open to all. We meet to discuss & demonstrate application security, tools & solutions.
 
@@ -32,6 +36,7 @@ The OWASP Seoul Chapter has a Slack channel and a Kakaotalk open chat for member
 
 Use invite to join the OWASP Slack group - [link](https://owasp.org/slack/invite){: target="_blank"} and join the Seoul Chapter channel - #chapter-Seoul
 Join the Seoul Chapter KakaoTalk open chat - [link](https://open.kakao.com/o/gS5IxXxh){: target="_blank"}
+Join the LinkedIn Group - [link](https://www.linkedin.com/groups/14865013/)
 
 
 # Meetup Events
