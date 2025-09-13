@@ -1,0 +1,91 @@
+{% assign pathparts = page.path | split: '/' %}
+  {% assign cleanpath = '' %}
+  {% for parts in pathparts %}
+      {% if parts.size == 1 or forloop.last == false %}{% assign cleanpath = cleanpath | append: parts | append: '/' %}{% endif %}
+  {% endfor %}
+  {% assign cleanpath = cleanpath | strip %}
+  
+  {% assign sorted_pages = site.pages | where: "tab", "true" | sort:"order" %}
+  {% assign pagespath = '' %}
+  {% for page in sorted_pages %}
+    {% assign spageparts = page.path | split: '/' %}
+    {% for parts in spageparts %}
+      {% if parts.size == 1 or forloop.last == false %}{% assign pagespath = pagespath | append: parts | append: '/' %}{% endif %}
+    {% endfor %}
+    {% if pagespath == cleanpath %}
+      {% assign has_tabs = true %}
+    {% endif %}
+  {% endfor %}
+
+{% if has_tabs == true %}
+<nav class="sub-nav" role="navigation" aria-label="navigate page tabs">
+  <ul role="tablist">
+      <li>
+          {% assign baseurl = site.baseurl %}
+          {% assign pageurl = page.url %}
+          {% if baseurl %}
+             {% assign pageurl = site.url | append: site.baseurl %}
+          {% endif %}
+          <a href="#div-main" id="main-link" class="tab-link current" role="tab" aria-selected="true" aria-controls="main">Main</a>
+     </li>
+    {% for file in sorted_pages %}
+      {% if file.name contains "tab_info" %}
+        <li>
+            <a href="#div-{{ file.title | downcase }}" id="{{ file.title | downcase }}-link" class="tab-link" role="tab" aria-selected="true" aria-controls="{{ file.title | downcase }}">{{ file.title }}</a>
+        </li>
+      {% elsif page.tags contains file.tags %}
+        <li>
+            <a href="#div-{{ file.title | downcase }}" id="{{ file.title | downcase }}-link" class="tab-link" role="tab" aria-selected="false" aria-controls="{{ file.title | downcase }}">{% if file.displaytext %}{{ file.displaytext }}{% else %}{{ file.title }}{% endif %}</a>
+        </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+</nav>
+<script type='text/javascript'>
+  $(function() {
+    if(window.location.href.indexOf('#') != -1)
+     {
+        divid = window.location.href.substring(window.location.href.indexOf('#'))
+        secid = divid;
+        if(divid.indexOf('div-') >= 0)
+        {
+          $('.tab-link').each(function () {
+            divid = '#sec-' + $(this).attr('id').toLowerCase().replace('-link', '');
+            $(divid).addClass('tab-hidden'); 
+            $(this).removeClass('current');
+          });
+
+          secid = secid.replace('div-', 'sec-');
+          $(secid).removeClass('tab-hidden');
+          linkid = "#" + secid.substring(secid.indexOf('-') + 1) + "-link";
+          $(linkid).addClass('current'); 
+          
+        }
+        
+     }
+  });
+
+  $('.tab-link').click(function (e) {
+    e.preventDefault();
+    
+    $('.tab-link').each(function () {
+      $(this).removeClass('current');
+      divid = '#sec-' + $(this).attr('id').toLowerCase().replace('-link', '');
+      $(divid).addClass('tab-hidden'); 
+    });
+
+     divid = '#sec-' + $(this).attr('id').toLowerCase().replace('-link', '');
+     $(this).addClass('current');
+     $(divid).removeClass('tab-hidden');
+
+    const newHash = this.getAttribute('href') || ('#' + this.id);
+    if (history.pushState) {
+      const base = window.location.pathname + window.location.search;
+      history.pushState(null, '', base + newHash);
+    } else {
+      window.location.hash = newHash;
+    }
+  });
+</script>
+{% endif %}
+
