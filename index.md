@@ -8,9 +8,6 @@ meetup-group: owasp-seoul
 country: Korea (South)
 postal-code: 
 ---
-<video controls="true">
-    <source src="https://www.youtube.com/embed/iA1oKgw36PY?si=g4BeiKdgrNsnQZWZ" type="video/mp4" />
-</video>
 
 <iframe width="100%" height="600" src="https://www.youtube.com/embed/iA1oKgw36PY?si=g4BeiKdgrNsnQZWZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen ></iframe>
 <br>
