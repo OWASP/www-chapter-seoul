@@ -8,6 +8,18 @@ order: 2
 tags: Seoul
 
 ---
+## OWASP Seoul Chapter 2025년 9월 세미나
+  - Recording: [녹화본-Youtube](https://www.youtube.com/watch?v=hMGRGghzrzs)
+  - 주제#1: ComplOps를 소개합니다.
+    - 발표자 : 김요한 - 하이퍼커넥트
+    - 발표자료 : [2025 Sep ComplOps를 소개합니다  - 김요한(하이퍼커넥트)(./assets/files/2025%20Sep%20김요한%20-%20ComplOps를 소개합니다.%20(ft.%20Integration%20&%20Automation).pdf){: target="_blank"}
+  - 주제#2: Security Compliance Engineer 스타트업 보안 인증 실전 경험
+    - 발표자 : 공지훈 - 라포랩스
+    - 발표자료 : [2025 Sep Security Compliance Engineer 스타트업 보안 인증 실전 경험 - 공지훈(라포랩스)](./assets/files/2025%20Sep%20공지훈%20-%20Security Compliance%20Engineer%20스타트업%20보안%20인증 실전%20경험.pdf){: target="_blank"}
+  - 장소 후원: [배달의민족 테크사롱](https://story.baemin.com/3168/)
+  - 번역 후원: [Cuckoo](http://cuckoo.so/)
+
+
 ## OWASP Seoul Chapter 2025년 8월 세미나
   - Recording: [녹화본-Youtube](https://youtu.be/iA1oKgw36PY)
   - 주제#1: 오픈소스 가드닝 (Open Source Gardening) 
