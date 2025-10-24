@@ -1,0 +1,34 @@
+community:
+  - name: chapter-seoul
+    platform: slack
+    url: https://owasp.slack.com/archives/CQGH1PEG4
+leaders:
+  - name: Jin Kwak
+    email: jin.kwak@owasp.org
+  - name: Youngjae Jeon
+    email: youngjae.jeon@owasp.org
+    github: OWASP-Seoul
+  - name: Donghyun Kim
+    email: ben.kim@owasp.org
+    github: ben-cremit
+  - name: Seongjin Hong
+    email: seongjin.hong@owasp.org
+    github: ni5am
+location:
+  country: South Korea
+  country_code: KR
+  region: Seoul
+  city: Seoul
+  latitude: 37.5666791
+  longitude: 126.9782914
+meetup_group: owasp-seoul
+name: OWASP Seoul
+repositories:
+  - name: www-chapter-seoul
+    url: https://github.com/OWASP/www-chapter-seoul
+    description: OWASP Foundation Web Repository
+tags:
+  - Seoul
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-seoul
