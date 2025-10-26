@@ -25,7 +25,7 @@ OWASP(The Open Web Application Security Project) 서울 챕터는 웹 애플리�
 OWASP 서울 챕터에서는 다음과 같은 후원 프로그램을 운영하고 있습니다.
 
 #### 단일 회의 후원 (Single Meeting Supporter)
-특정 세미나 또는 이벤트를 지정하여 후원하는 방식입니다. 일회성 후원을 통해 OWASP 커뮤니티에 기여하고 기업을 홍보할 수 있는 좋은 기회입니다. 자세한 내용은 파일을 참고해주세요. [OWASP Seoul Sponsorship Prospectus v1.0](./assets/files/OWASP%20Seoul%20Sponsorship%20Prospectus%20v1.0.pdf)
+특정 세미나 또는 이벤트를 지정하여 후원하는 방식입니다. 일회성 후원을 통해 OWASP 커뮤니티에 기여하고 기업을 홍보할 수 있는 좋은 기회입니다. 자세한 내용은 파일을 참고해주세요. [OWASP Seoul Sponsorship Prospectus v1.0](https://docs.google.com/document/d/1RbkzYgbDEHysOsaJh0kV2hZblaP-TM1JwHLGPCnSnys)
 
 #### 연간 지역 챕터 후원 (Local Chapter Supporter)
 연간 후원을 통해 OWASP 서울 챕터의 든든한 파트너가 되어주세요. 지속적인 지원은 챕터가 안정적으로 운영되고 장기적인 계획을 세우는 데 큰 힘이 됩니다.
