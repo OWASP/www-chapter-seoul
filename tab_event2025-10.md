@@ -9,7 +9,7 @@ tags: Seoul
 
 ---
 
-<center><img src="./assets/images/OWASP_Sep.png" width="90%"></center>
+<center><img src="./assets/images/OWASP_Oct.png" width="90%"></center>
 
 # Details
 📢 OWASP Seoul Chapter에서 2025년 10월 오프라인 세미나를 개최합니다!
