@@ -8,6 +8,18 @@ order: 2
 tags: Seoul
 
 ---
+## OWASP Seoul Chapter 2025년 10월 세미나
+  - Recording: [녹화본-Youtube](https://youtu.be/taxgA7vbUG4)
+  - 주제#1: 사이버 위협 대응을 위한 Incident Response와 다크웹 활용 전략
+    - 발표자 : 이진욱 - 컴투스
+    - 발표자료 : [2025 Oct 사이버 위협 대응을 위한 Incident Response와 다크웹 활용 전략 - 이진욱(컴투스)](./assets/files/2025 Oct 이진욱 - 사이버 위협 대응을 위한 Incident Response와 다크웹 활용 전략.pdf){: target="_blank"}
+  - 주제#2: Security Compliance Engineer 스타트업 보안 인증 실전 경험
+    - 발표자 : 정민성 - KT
+    - 발표자료 : [2025 Oct Agentic AI기반 클라우드 워크로드 위협탐지 대응 자동화 구현사례 - 정민성(KT)](./assets/files/2025 Oct 정민성 - Agentic AI기반 클라우드 워크로드 위협탐지 대응 자동화 구현사례.pdf){: target="_blank"}
+  - 장소 후원: [Dcamp](https://dcamp.kr)
+  - 케이터링 후원: [다온기술](https://www.daont.co.kr/)
+  - 번역 후원: [Cuckoo](http://cuckoo.so/)
+
 ## OWASP Seoul Chapter 2025년 9월 세미나
   - Recording: [녹화본-Youtube](https://www.youtube.com/watch?v=hMGRGghzrzs)
   - 주제#1: ComplOps를 소개합니다.
