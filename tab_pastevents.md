@@ -12,7 +12,7 @@ tags: Seoul
   - Recording: TBD
   - 주제#1: 2025 Nov 한종훈 - LLM 기반 SAST 스캐너 구축기
     - 발표자 : 한종훈 - 힐링페이퍼(강남언니)
-    - 발표자료 : [2025 Nov 한종훈 - LLM 기반 SAST 스캐너 구축기 - 한종훈(힐링페이퍼)](./assets/files/22025 Nov 한종훈 - LLM 기반 SAST 스캐너 구축기.pdf){: target="_blank"}
+    - 발표자료 : [2025 Nov 한종훈 - LLM 기반 SAST 스캐너 구축기 - 한종훈(힐링페이퍼)](./assets/files/2025 Nov 한종훈 - LLM 기반 SAST 스캐너 구축기.pdf){: target="_blank"}
   - 주제#2: Security Compliance Engineer 스타트업 보안 인증 실전 경험
     - 발표자 : 김동현 - Cremit
     - 발표자료 : [2025 Nov 김동현 - 도구를 넘어서 DevSecOps 문화 구축하기 - 김동현(크리밋)](./assets/files/2025 Nov 김동현 - 도구를 넘어서 DevSecOps 문화 구축하기.pdf.pdf){: target="_blank"}
