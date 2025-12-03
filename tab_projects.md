@@ -11,6 +11,7 @@ tags: Seoul
 
 # Project
 
+  - OWASP Application Security Verification Standard (ASVS 5.0.0) 한글본 ([다운로드]([https://owasp.org/www-chapter-seoul/assets/files/TopTenForLLM-ko_KR.pdf](https://github.com/OWASP/ASVS/raw/v5.0.0/5.0/OWASP_Application_Security_Verification_Standard_5.0.0_ko.pdf)){: target="_blank"})
   - OWASP Top 10 for LLM Applications 2025 한글본 ([다운로드](https://owasp.org/www-chapter-seoul/assets/files/TopTenForLLM-ko_KR.pdf){: target="_blank"})
   - OWASP Firmware Security Testing Methodology v1.0 한글본 ([다운로드](https://github.com/OWASP-Seoul/owasp/raw/master/OWASP%20Project/Firmware_Security_Testing_Methodology_V1_Korean.pdf){: target="_blank"})
   - OWASP Mobile Application Security Verification Standard (MASVS) Release v1.2 한글본 ([다운로드](https://github.com/OWASP-Seoul/owasp/raw/master/OWASP%20Project/OWASP_MASVS-1.2-ko.pdf){: target="_blank"})
