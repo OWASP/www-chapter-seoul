@@ -13,7 +13,7 @@ tags: Seoul
   - Recording: TBD
   - 주제#1: OWASP Top 10 2025: 변한 것 그리고 변하지 않은 것
     - 발표자 : 홍성진(Seoul chapter leader)
-    - 발표자료 : [2025 Dec OWASP Top 10 2025](./assets/files/2025 Dec OWASP Top 10 2025){: target="_blank"}
+    - 발표자료 : [2025 Dec OWASP Top 10 2025](./assets/files/2025 Dec OWASP Top 10 2025.pdf){: target="_blank"}
   - 장소 후원: [Dcamp](https://dcamp.kr)
   - 케이터링 후원: [Sparrow](https://sparrow.im/) ,[Cremit](https://cremit.io/)
   - 번역 후원: [Cuckoo](http://cuckoo.so/)
