@@ -15,7 +15,7 @@ tags: Seoul
     - 발표자 : 홍성진(Seoul chapter leader)
     - 발표자료 : [2025 Dec OWASP Top 10 2025](./assets/files/2025 Dec OWASP Top 10 2025.pdf){: target="_blank"}
   - 장소 후원: [Dcamp](https://dcamp.kr)
-  - 케이터링 후원: [Sparrow](https://sparrow.im/) ,[Cremit](https://cremit.io/)
+  - 케이터링 후원: [Sparrow](https://sparrow.im/), [Cremit](https://cremit.io/)
   - 번역 후원: [Cuckoo](http://cuckoo.so/)
   - 
 ## OWASP Seoul Chapter 2025년 11월 세미나
