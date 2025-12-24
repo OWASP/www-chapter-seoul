@@ -16,7 +16,7 @@ tags: Seoul
     - 발표자료 : [2025 Dec 홍성진 - OWASP Top Ten 2025 - 바뀌지 않은 것 그리고 바뀐 것](./assets/files/2025 Dec 홍성진 - OWASP Top Ten 2025 - 바뀌지 않은 것 그리고 바뀐 것.pdf){: target="_blank"}
   - 장소 후원: [Dcamp](https://dcamp.kr)
   - 케이터링 후원: [Sparrow](https://sparrow.im/), [Cremit](https://cremit.io/)
-  - 봉사자: [이효주](https://www.linkedin.com/in/효주-김-3b774a23a/) [최다인](https://www.linkedin.com/in/dain-choi-6bb18430b)
+  - 봉사자: [김효주](https://www.linkedin.com/in/효주-김-3b774a23a/) [최다인](https://www.linkedin.com/in/dain-choi-6bb18430b)
   - 번역 후원: [Cuckoo](http://cuckoo.so/)
 
 ## OWASP Seoul Chapter 2025년 11월 세미나
