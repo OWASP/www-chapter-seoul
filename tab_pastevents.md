@@ -10,16 +10,17 @@ tags: Seoul
 ---
 
 ## OWASP Seoul Chapter 2025년 12월 세미나
-  - Recording: TBD
+  - Recording: [녹화본-Youtube](https://youtu.be/iR7SBNscTmI)
   - 주제#1: OWASP Top 10 2025: 변한 것 그리고 변하지 않은 것
     - 발표자 : 홍성진(Seoul chapter leader)
-    - 발표자료 : [2025 Dec OWASP Top 10 2025](./assets/files/2025 Dec OWASP Top 10 2025.pdf){: target="_blank"}
+    - 발표자료 : [2025 Dec 홍성진 - OWASP Top Ten 2025 - 바뀌지 않은 것 그리고 바뀐 것](./assets/files/2025 Dec 홍성진 - OWASP Top Ten 2025 - 바뀌지 않은 것 그리고 바뀐 것.pdf){: target="_blank"}
   - 장소 후원: [Dcamp](https://dcamp.kr)
   - 케이터링 후원: [Sparrow](https://sparrow.im/), [Cremit](https://cremit.io/)
+  - 봉사자: [이효주](https://www.linkedin.com/in/효주-김-3b774a23a/) [최다인](https://www.linkedin.com/in/dain-choi-6bb18430b)
   - 번역 후원: [Cuckoo](http://cuckoo.so/)
 
 ## OWASP Seoul Chapter 2025년 11월 세미나
-  - Recording: TBD
+  - Recording: [녹화본-Youtube](https://youtu.be/0xguqTX6vL4)
   - 주제#1: 2025 Nov 한종훈 - LLM 기반 SAST 스캐너 구축기
     - 발표자 : 한종훈 - 힐링페이퍼(강남언니)
     - 발표자료 : [2025 Nov 한종훈 - LLM 기반 SAST 스캐너 구축기 - 한종훈(힐링페이퍼)](./assets/files/2025 Nov 한종훈 - LLM 기반 SAST 스캐너 구축기.pdf){: target="_blank"}
