@@ -11,9 +11,13 @@ tags: Seoul
 
 ## OWASP Seoul Chapter 2025년 12월 세미나
   - Recording: [녹화본-Youtube](https://youtu.be/iR7SBNscTmI)
+  - 주제#2의 경우 패널톡분들의 편한 의견공유를 위해 별도의 녹화를 진행하지 않았습니다.
   - 주제#1: OWASP Top 10 2025: 변한 것 그리고 변하지 않은 것
-    - 발표자 : 홍성진(Seoul chapter leader)
+    - 발표자 : [홍성진](https://www.linkedin.com/in/sjhk/)(Seoul chapter leader, Sendbird)
     - 발표자료 : [2025 Dec 홍성진 - OWASP Top Ten 2025 - 바뀌지 않은 것 그리고 바뀐 것](./assets/files/2025 Dec 홍성진 - OWASP Top Ten 2025 - 바뀌지 않은 것 그리고 바뀐 것.pdf){: target="_blank"}
+  - 주제#2: 패널톡 - 위험과 기회: 한국 보안의 현재와 미래
+    - 진행자 : [김동현](https://www.linkedin.com/in/ben-dh-kim/)(Seoul chapter leader, Cremit)
+    - 패널 : [권현준](https://www.linkedin.com/in/hyeonjun-kwon-439563206/)(우아한형제들), [문광석](https://www.linkedin.com/in/kwangsuk-moon-pe-cissp-ceh-9a6689b0/)(코리안리), [신은수](https://www.linkedin.com/in/eunsu-shin-b7773938/)(AWS)
   - 장소 후원: [Dcamp](https://dcamp.kr)
   - 케이터링 후원: [Sparrow](https://sparrow.im/), [Cremit](https://cremit.io/)
   - 봉사자: [김효주](https://www.linkedin.com/in/효주-김-3b774a23a/) [최다인](https://www.linkedin.com/in/dain-choi-6bb18430b)
@@ -22,10 +26,10 @@ tags: Seoul
 ## OWASP Seoul Chapter 2025년 11월 세미나
   - Recording: [녹화본-Youtube](https://youtu.be/0xguqTX6vL4)
   - 주제#1: 2025 Nov 한종훈 - LLM 기반 SAST 스캐너 구축기
-    - 발표자 : 한종훈 - 힐링페이퍼(강남언니)
+    - 발표자 : [한종훈](https://www.linkedin.com/in/jonghoon-han-213548231/) - 힐링페이퍼(강남언니)
     - 발표자료 : [2025 Nov 한종훈 - LLM 기반 SAST 스캐너 구축기 - 한종훈(힐링페이퍼)](./assets/files/2025 Nov 한종훈 - LLM 기반 SAST 스캐너 구축기.pdf){: target="_blank"}
   - 주제#2: Security Compliance Engineer 스타트업 보안 인증 실전 경험
-    - 발표자 : 김동현 - Cremit
+    - 발표자 : [김동현](https://www.linkedin.com/in/ben-dh-kim/) - Cremit
     - 발표자료 : [2025 Nov 김동현 - 도구를 넘어서 DevSecOps 문화 구축하기 - 김동현(크리밋)](./assets/files/2025 Nov 김동현 - 도구를 넘어서 DevSecOps 문화 구축하기.pdf.pdf){: target="_blank"}
   - 장소 후원: [Dcamp](https://dcamp.kr)
   - 케이터링 후원: [다온기술](https://www.daont.co.kr/)
@@ -37,7 +41,7 @@ tags: Seoul
     - 발표자 : 이진욱 - 컴투스
     - 발표자료 : [2025 Oct 사이버 위협 대응을 위한 Incident Response와 다크웹 활용 전략 - 이진욱(컴투스)](./assets/files/2025 Oct 이진욱 - 사이버 위협 대응을 위한 Incident Response와 다크웹 활용 전략.pdf){: target="_blank"}
   - 주제#2: Security Compliance Engineer 스타트업 보안 인증 실전 경험
-    - 발표자 : 정민성 - KT
+    - 발표자 : [정민성](https://www.linkedin.com/in/minsungjung/) - KT
     - 발표자료 : [2025 Oct Agentic AI기반 클라우드 워크로드 위협탐지 대응 자동화 구현사례 - 정민성(KT)](./assets/files/2025 Oct 정민성 - Agentic AI기반 클라우드 워크로드 위협탐지 대응 자동화 구현사례.pdf){: target="_blank"}
   - 장소 후원: [Dcamp](https://dcamp.kr)
   - 케이터링 후원: [다온기술](https://www.daont.co.kr/)
@@ -46,10 +50,10 @@ tags: Seoul
 ## OWASP Seoul Chapter 2025년 9월 세미나
   - Recording: [녹화본-Youtube](https://www.youtube.com/watch?v=hMGRGghzrzs)
   - 주제#1: ComplOps를 소개합니다.
-    - 발표자 : 김요한 - 하이퍼커넥트
+    - 발표자 : [김요한](https://www.linkedin.com/in/yohan-kim-695370264/) - 하이퍼커넥트
     - 발표자료 : [2025 Sep ComplOps를 소개합니다  - 김요한(하이퍼커넥트)](./assets/files/2025%20Sep%20김요한%20-%20ComplOps를 소개합니다.%20(ft.%20Integration%20&%20Automation).pdf){: target="_blank"}
   - 주제#2: Security Compliance Engineer 스타트업 보안 인증 실전 경험
-    - 발표자 : 공지훈 - 라포랩스
+    - 발표자 : [공지훈](https://www.linkedin.com/in/mr-zero/) - 라포랩스
     - 발표자료 : [2025 Sep Security Compliance Engineer 스타트업 보안 인증 실전 경험 - 공지훈(라포랩스)](./assets/files/2025%20Sep%20공지훈%20-%20Security Compliance%20Engineer%20스타트업%20보안%20인증 실전%20경험.pdf){: target="_blank"}
   - 장소 후원: [배달의민족 테크사롱](https://story.baemin.com/3168/)
   - 번역 후원: [Cuckoo](http://cuckoo.so/)
@@ -58,10 +62,10 @@ tags: Seoul
 ## OWASP Seoul Chapter 2025년 8월 세미나
   - Recording: [녹화본-Youtube](https://youtu.be/iA1oKgw36PY)
   - 주제#1: 오픈소스 가드닝 (Open Source Gardening) 
-    - 발표자 : HAHWUL(이현환)
+    - 발표자 : [HAHWUL(이현환)](https://x.com/hahwul)
     - 발표자료 : [2025 Aug 오픈소스 가드닝 (Open Source Gardening) - HAHWUL(이현환)](./assets/files/2025%20Aug%20-%20Open%20Source%20Gardening%20-%20HAHWUL(이현환).pdf){: target="_blank"}
   - 주제#2: 모여봐요, 번역의 숲
-    - 발표자 : 박우현
+    - 발표자 : [박우현](https://www.linkedin.com/in/woohyun212/)
     - 발표자료 : [2025 Aug 모여봐요, 번역의 숲 - 박우현](./assets/files/2025%20Aug%20-%20모여봐요%20번역의%20숲%20-%20박우현.pdf){: target="_blank"}
   - 장소 후원: [Dcamp](https://dcamp.kr)
   - 케이터링 후원: 정영훈
@@ -71,16 +75,16 @@ tags: Seoul
 ## OWASP Seoul Chapter 2025년 7월 세미나
   - Recording: [녹화본-Youtube](https://youtu.be/lw7vOgRlEOE)
   - 주제#1 : 해커들이 좋아하는 인증 환경은 따로 있다?
-    - 발표자 : Safe Us 팀 - 정민석, 김민곤(화이트햇 스쿨 3기)
+    - 발표자 : Safe Us 팀(화이트햇 스쿨 3기) - 정민석, 김민곤
     - 발표자료 : [2025 Jul Safe Us팀(정민석, 김민곤) - 해커들이 좋아하는 인증 환경은 따로 있다](./assets/files/2025 Jul Safe Us팀(정민석, 김민곤) - 해커들이 좋아하는 인증 환경은 따로 있다_.pdf){: target="_blank"}
   - 주제#2 : 보안의 공백지대: LLM Integrated Application Vulnerability
-    - 발표자 : 404 Not Found 퇴근 팀 - 김동환(화이트햇 스쿨 3기)
+    - 발표자 : 404 Not Found 퇴근 팀(화이트햇 스쿨 3기) - 김동환
     - 발표자료 : [2025 Jul 404 Not Found 퇴근 팀(김동환) - 보안의 공백지대_LLM Integrated Applicaiton Vulnerability](./assets/files/2025 Jul 404 Not Found 퇴근 팀(김동환) - 보안의 공백지대_LLM Integrated Applicaiton Vulnerability.pdf){: target="_blank"}
   - 주제#3 : EmulParty Advance — Beyond x86 for Students : 경량 ISA 기반 오픈소스 보안 실습 아키텍처
-    - 발표자 : 에뮤르파티 팀 - 이재원, 조용(화이트햇 스쿨 3기)
+    - 발표자 : 에뮤르파티 팀(화이트햇 스쿨 3기) - [이재원](https://www.linkedin.com/in/mddjw/), 조용
     - 발표자료 : [EmulPary Advanced 팀(이재원, 조용진) - Beyond x86 for Students _ 경량 ISA 기반 오픈소스 보안 실습 아키텍쳐](./assets/files/2025 Jul - EmulPary Advanced 팀(이재원, 조용진) - Beyond x86 for Students _ 경량 ISA 기반 오픈소스 보안 실습 아키텍쳐.pdf){: target="_blank"}
   - 주제#4 : Windows Third-Party SW Kernel Driver LPE BugHunting
-    - 발표자 : DoMyBest 팀 - 김태영(화이트햇 스쿨 3기)
+    - 발표자 : DoMyBest 팀(화이트햇 스쿨 3기) - [김태영](https://www.linkedin.com/in/libera/)
     - 발표자료 : [2025 Jul Do My Best 팀(김태영) - Windows Third-Party SW Kernel Driver LPE BugHunting ](./assets/files/2025 Jul Do My Best 팀(김태영) - Windows Third-Party SW Kernel Driver LPE BugHunting .pdf){: target="_blank"}
   - 장소 후원: [Dcamp](https://dcamp.kr)
   - 케이터링 후원: [Hacky AI](http://hacky-ai.com/), [문석주](https://www.linkedin.com/in/seokjoo-mun-473704127/)
@@ -90,10 +94,10 @@ tags: Seoul
 ## OWASP Seoul Chapter 2025년 6월 세미나
   - Recording: [녹화본-Youtube](https://youtu.be/mdJ8qr6LyHg)
   - 주제#1 : 보안 커리어 발전시키기: 나의 CISO 여정과 그 너머
-    - 발표자 : Yashvier Kosaraju - Sendbird CISO
+    - 발표자 : [Yashvier Kosaraju](https://www.linkedin.com/in/yashvier/) - Sendbird CISO
     - 발표자료 : [2025 June Yashvier Kosaraju - Advancing Your Security Career_ My CISO Journey & More](./assets/files/2025 June Yashvier Kosaraju - Advancing Your Security Career_ My CISO Journey & More.pdf){: target="_blank"}
   - 주제#2 : SECURITY CAREER EVOLUTION: 19년 여정에서 얻은 인사이트
-    - 발표자 : 한현상 - AWS Sr. Security Consultant
+    - 발표자 : [한현상](https://www.linkedin.com/in/hyeonsang-han-bb507715b/) - AWS Sr. Security Consultant
     - 발표자료 : [2025 June 한현상 - Security Career Evolution](./assets/files/2025 June 한현상 - Security Career Evolution.pdf){: target="_blank"}
   - 장소 후원: [Dcamp](https://dcamp.kr)
   - 케이터링 후원: [Sendbird](https://sendbird.com)
@@ -102,10 +106,10 @@ tags: Seoul
 
 ## OWASP Seoul Chapter 2025년 제1회 온라인 세미나
   - 주제#1 : Non Human Identity Top 10 살펴보기
-    - 발표자 : 김동현 대표 (Cremit)
+    - 발표자 : [김동현](https://www.linkedin.com/in/ben-dh-kim/) 대표 (Cremit)
     - 발표자료 : [OWASP Seoul - 김동현 Non Human Identity Top 10 살펴보기.pdf](./assets/files/OWASP Seoul - 김동현 Non Human Identity Top 10 살펴보기.pdf){: target="_blank"}
   - 주제#2 : 버그바운티 도입 및 운영 101
-    - 발표자 : 홍성진 Staff Security Engineer (센드버드코리아)
+    - 발표자 : [홍성진](https://www.linkedin.com/in/sjhk/) Staff Security Engineer (센드버드코리아)
     - 발표자료 : [OWASP Seoul - 홍성진 버그바운티 도입 및 운영 101.pdf](./assets/files/OWASP Seoul - 홍성진 버그바운티 도입 및 운영 101.pdf){: target="_blank"}
 
 ## OWASP Seoul Conference 2021
