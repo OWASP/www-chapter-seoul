@@ -16,7 +16,7 @@ OWASP Seoul Chapter 5기 운영진을 현재 아래와 같이 구성하여 운�
 | 이름 | 소속 | Contact | 활동내역 |
 | --- | --- | --- | --- |
 | 전영재 | 에스알센터 | [LinkedIn](https://www.linkedin.com/in/whitehat-kr/) | 서울 챕터 리더 (2019.03 ~ ) |
-| 곽 진 | 아주대학교 | [ISSA](https://isaa.re.kr/) | 서울 챕터 리더 (2025.05 ~ ) |
+| 곽 진 | 아주대학교 | [LinkedIn](https://www.linkedin.com/in/jin-kwak-6a496521a/) | 서울 챕터 리더 (2025.05 ~ ) |
 | 홍성진 | Sendbird | [LinkedIn](https://www.linkedin.com/in/sjhk/) | 서울 챕터 리더 (2025.05 ~ ) |
 | 김동현 | Cremit | [LinkedIn](https://www.linkedin.com/in/ben-dh-kim/) | 서울 챕터 리더 (2025.05 ~ ) |
 
@@ -27,6 +27,12 @@ OWASP Seoul Chapter 5기 운영진을 현재 아래와 같이 구성하여 운�
 회의에는 OWASP 멤버쉽 유무와 관계없이 참여하실 수 있으며 OWASP 멤버의 경우 의결권이 부여됩니다.
 
 회의는 매달 첫째주 수요일 20시부터 21시까지 진행됩니다.
+## 2026년 회의록 
+- OWASP Seoul Monthly meeting 01/07[회의록](https://docs.google.com/document/d/1ifw3RAYkjb0bUogmOaCJ75GMF5QiPptj1qr_xZtBx-I/edit?usp=drive_link) / [녹화록](https://drive.google.com/file/d/1tig2cg5xED7M4Q_FRVnhVr77DHbRQ7cQ/view?usp=drive_link)
+
+## 과거 회의록
+- OWASP Seoul Monthly meeting 12/03[회의록](https://docs.google.com/document/d/1SxeWr5Xuwc2bXhofiqZXe6c920ynOLgS5RhNej3mZug/edit?usp=drive_link) / [녹화록](https://drive.google.com/file/d/143dFX93HSJii5Wp6QhWkaInTylY9gYYq/view?usp=drive_link)
+- OWASP Seoul Monthly meeting 11/06[회의록](https://docs.google.com/document/d/1K9dkRtLaf3h8KjZgA4Y7DSizk8XE21B5rAuxC6OkroU/edit?usp=drive_link) / 11월 녹화본은 줌 레코딩 저장기간 문제로 백업하지못했습니다. 
 - OWASP Seoul Monthly meeting 10/13[회의록](https://docs.google.com/document/d/1OCycGaQ0ePy0v2V39ZfRUTJPuzA7MWgtFD4wkvVx_ww/edit?tab=t.0#heading=h.pabsicahn34w) / [녹화록](https://drive.google.com/file/d/1emGp9A4unkN4WzngYX0lsq_I-lk-qWb7/view?usp=drive_link)
 - OWASP Seoul Bi-Weekly meeting 09/08([회의록](https://docs.google.com/document/d/1ed47Dj9cgb1VBBF7Gjk6vp1l-0zeLPd6u-aOZ9VQnlw/) / [녹화록](https://drive.google.com/file/d/1LCsnBATG5s28nk_wXZl4j6vVeB5boFBU/view?usp=drive_link))
 - OWASP Seoul Bi-Weekly meeting 08/12([회의록](https://docs.google.com/document/d/1B9jdeJsO6pQcg4WokBX0gY2RN11IaR-p1FmEXR9Y_-A/) / [녹화록](https://drive.google.com/file/d/1HujBzhZYHc6XSBWAlRKKL69LI4njVLjR/view?usp=drive_link))
