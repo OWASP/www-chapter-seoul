@@ -9,7 +9,7 @@ country: Korea (South)
 postal-code: 
 ---
 
-<iframe width="100%" height="600" src="https://www.youtube.com/embed/iR7SBNscTmI?si=hJdb1PUQfUyVXKhC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen ></iframe>
+<iframe width="100%" height="600" src="https://www.youtube.com/embed/ykWW_bdPr4k?list=PL4AR1FqYlfe4CENH6nMHJ9T2eivUrr5jy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen ></iframe>
 <br>
 
 <center><img src="./assets/images/OWASP_seoul_Title_2025_summer.png"></center><br>

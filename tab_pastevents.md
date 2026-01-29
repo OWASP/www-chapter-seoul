@@ -9,6 +9,18 @@ tags: Seoul
 
 ---
 
+## OWASP Seoul Chapter 2026년 1월 세미나
+  - 주제#1:  막연함을 확신으로 바꾼 주니어의 9개월: 크래시에서 프롬프트, 그리고 에이전트 AI까지 [녹화본-Youtube](https://youtu.be/ykWW_bdPr4k)
+    - 발표자 : [여서인](https://www.linkedin.com/in/seoin-yeo-b75071378/) - 화이트햇스쿨 3기
+    - 발표자료 : [2026 Jan 여서인 - 막연함을 확신으로 바꾼 주니어의 9개월: 크래시에서 프롬프트, 그리고 에이전트 AI까지](./assets/files/2026 Jan 여서인 - 막연함을 확신으로 바꾼 주니어의 9개월 크래시에서 프롬프트, 그리고 에이전트 AI까지.pdf){: target="_blank"}
+  - 주제#2: AI Vulnerability, Threat, Risk, and Defense Mechanism [녹화본-Youtube](https://youtu.be/dPNfvxR-dao)
+    - 발표자: [박대영](https://www.linkedin.com/in/mainthread4929/) - 금융보안원
+    - 발표자료: [2026 Jan 박대영 - AI Vulnerability, Threat, Risk, and Defense Mechanism](./assets/files/2026 Jan 박대영 - AI Vulnerability, Threat, Risk, and Defense Mechanism.pdf){: target="_blank"}
+  - 장소 후원: [Dcamp](https://dcamp.kr)
+  - 케이터링 후원: [시큐어루트](https://www.secureroot.co.kr/sroot/index.html)
+  - 굿즈 후원: [라포랩스](https://rapportlabs.kr/)
+  - 번역 후원: [Cuckoo](http://cuckoo.so/)
+
 ## OWASP Seoul Chapter 2025년 12월 세미나
   - Recording: [녹화본-Youtube](https://youtu.be/iR7SBNscTmI)
   - 주제#2의 경우 패널톡분들의 편한 의견공유를 위해 별도의 녹화를 진행하지 않았습니다.
@@ -25,10 +37,10 @@ tags: Seoul
 
 ## OWASP Seoul Chapter 2025년 11월 세미나
   - Recording: [녹화본-Youtube](https://youtu.be/0xguqTX6vL4)
-  - 주제#1: 2025 Nov 한종훈 - LLM 기반 SAST 스캐너 구축기
+  - 주제#1: LLM 기반 SAST 스캐너 구축기
     - 발표자 : [한종훈](https://www.linkedin.com/in/jonghoon-han-213548231/) - 힐링페이퍼(강남언니)
     - 발표자료 : [2025 Nov 한종훈 - LLM 기반 SAST 스캐너 구축기 - 한종훈(힐링페이퍼)](./assets/files/2025 Nov 한종훈 - LLM 기반 SAST 스캐너 구축기.pdf){: target="_blank"}
-  - 주제#2: Security Compliance Engineer 스타트업 보안 인증 실전 경험
+  - 주제#2: 도구를 넘어서 DevSecOps 문화 구축하기
     - 발표자 : [김동현](https://www.linkedin.com/in/ben-dh-kim/) - Cremit
     - 발표자료 : [2025 Nov 김동현 - 도구를 넘어서 DevSecOps 문화 구축하기 - 김동현(크리밋)](./assets/files/2025 Nov 김동현 - 도구를 넘어서 DevSecOps 문화 구축하기.pdf.pdf){: target="_blank"}
   - 장소 후원: [Dcamp](https://dcamp.kr)
@@ -40,7 +52,7 @@ tags: Seoul
   - 주제#1: 사이버 위협 대응을 위한 Incident Response와 다크웹 활용 전략
     - 발표자 : 이진욱 - 컴투스
     - 발표자료 : [2025 Oct 사이버 위협 대응을 위한 Incident Response와 다크웹 활용 전략 - 이진욱(컴투스)](./assets/files/2025 Oct 이진욱 - 사이버 위협 대응을 위한 Incident Response와 다크웹 활용 전략.pdf){: target="_blank"}
-  - 주제#2: Security Compliance Engineer 스타트업 보안 인증 실전 경험
+  - 주제#2: Agentic AI 기반 클라우드 워크로드 대응 자동화 구현사례
     - 발표자 : [정민성](https://www.linkedin.com/in/minsungjung/) - KT
     - 발표자료 : [2025 Oct Agentic AI기반 클라우드 워크로드 위협탐지 대응 자동화 구현사례 - 정민성(KT)](./assets/files/2025 Oct 정민성 - Agentic AI기반 클라우드 워크로드 위협탐지 대응 자동화 구현사례.pdf){: target="_blank"}
   - 장소 후원: [Dcamp](https://dcamp.kr)
