@@ -12,10 +12,10 @@ tags: Seoul
 ## OWASP Seoul Chapter 2026년 1월 세미나
   - 주제#1:  막연함을 확신으로 바꾼 주니어의 9개월: 크래시에서 프롬프트, 그리고 에이전트 AI까지 [녹화본-Youtube](https://youtu.be/ykWW_bdPr4k)
     - 발표자 : [여서인](https://www.linkedin.com/in/seoin-yeo-b75071378/) - 화이트햇스쿨 3기
-    - 발표자료 : [2026 Jan 여서인 - 막연함을 확신으로 바꾼 주니어의 9개월: 크래시에서 프롬프트, 그리고 에이전트 AI까지](./assets/files/2026 Jan 여서인 - 막연함을 확신으로 바꾼 주니어의 9개월 크래시에서 프롬프트, 그리고 에이전트 AI까지.pdf){: target="_blank"}
+    - 발표자료 : [2026 Jan 여서인 - 막연함을 확신으로 바꾼 주니어의 9개월: 크래시에서 프롬프트, 그리고 에이전트 AI까지](./assets/files/2026%20Jan%20여서인%20-%20막연함을%20확신으로%20바꾼%20주니어의%209개월%20크래시에서%20프롬프트,%20그리고%20에이전트%20AI까지.pdf){: target="_blank"}
   - 주제#2: AI Vulnerability, Threat, Risk, and Defense Mechanism [녹화본-Youtube](https://youtu.be/dPNfvxR-dao)
     - 발표자: [박대영](https://www.linkedin.com/in/mainthread4929/) - 금융보안원
-    - 발표자료: [2026 Jan 박대영 - AI Vulnerability, Threat, Risk, and Defense Mechanism](./assets/files/2026 Jan 박대영 - AI Vulnerability, Threat, Risk, and Defense Mechanism.pdf){: target="_blank"}
+    - 발표자료: [2026 Jan 박대영 - AI Vulnerability, Threat, Risk, and Defense Mechanism](./assets/files/2026 Jan 박대영 - AI Vulnerability, Threat, Risk, and Defense Mechanism.pdf){: target="_blank"}
   - 장소 후원: [Dcamp](https://dcamp.kr)
   - 케이터링 후원: [시큐어루트](https://www.secureroot.co.kr/sroot/index.html)
   - 굿즈 후원: [라포랩스](https://rapportlabs.kr/)
