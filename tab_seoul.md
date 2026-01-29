@@ -13,12 +13,12 @@ tags: Seoul
 
 OWASP Seoul Chapter 5기 운영진을 현재 아래와 같이 구성하여 운영중입니다. 운영진에 참여하기를 원하시는 분이나 기타 궁금하신 사항은 언제든지 문의하여 주시기 바랍니다. 운영진 참여시 OWASP 행사, 프로젝트 등 진행 시 우선적으로 참여할 수 있는 기회를 제공해 드리고 있습니다.
 
-| 이름 | 소속 | Contact | 활동내역 |
-| --- | --- | --- | --- |
-| 전영재 | 에스알센터 | [LinkedIn](https://www.linkedin.com/in/whitehat-kr/) | 서울 챕터 리더 (2019.03 ~ ) |
-| 곽 진 | 아주대학교 | [LinkedIn](https://www.linkedin.com/in/jin-kwak-6a496521a/) | 서울 챕터 리더 (2025.05 ~ ) |
-| 홍성진 | Sendbird | [LinkedIn](https://www.linkedin.com/in/sjhk/) | 서울 챕터 리더 (2025.05 ~ ) |
-| 김동현 | Cremit | [LinkedIn](https://www.linkedin.com/in/ben-dh-kim/) | 서울 챕터 리더 (2025.05 ~ ) |
+| 이름 | 소속 | Contact | Site | 활동내역 |
+| --- | --- | --- | --- | --- |
+| 전영재 | 에스알센터 | [LinkedIn](https://www.linkedin.com/in/whitehat-kr/) | | 서울 챕터 리더 (2019.03 ~ ) |
+| 곽 진 | 아주대학교 | [LinkedIn](https://www.linkedin.com/in/jin-kwak-6a496521a/) | | 서울 챕터 리더 (2025.05 ~ ) |
+| 홍성진 | Sendbird | [LinkedIn](https://www.linkedin.com/in/sjhk/) | [Blog](https://seongjin.blog) | 서울 챕터 리더 (2025.05 ~ ) |
+| 김동현 | Cremit | [LinkedIn](https://www.linkedin.com/in/ben-dh-kim/) | [Blog](https://bendh.kim) | 서울 챕터 리더 (2025.05 ~ ) |
 
 운영진 참여, 회원 관련 및 기타 문의: [서울 리더](mailto:seoul-leaders@owasp.org)
 
