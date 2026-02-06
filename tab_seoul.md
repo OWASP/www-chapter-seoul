@@ -28,7 +28,7 @@ OWASP Seoul Chapter 5기 운영진을 현재 아래와 같이 구성하여 운�
 
 회의는 매달 첫째주 수요일 20시부터 21시까지 진행됩니다.
 ## 2026년 회의록 
-- OWASP Seoul Monthly meeting 02/04[회의록](https://docs.google.com/document/d/14KEstfS_5NSJGQcTd5V61fHuohLio0MAVFQmAY2sE0A/edit?usp=drive_link) / [녹화록]https://drive.google.com/file/d/1T9PRt4GY6glhdY_V3WxzAKZzylNJp9rd/view?usp=drive_link)
+- OWASP Seoul Monthly meeting 02/04[회의록](https://docs.google.com/document/d/14KEstfS_5NSJGQcTd5V61fHuohLio0MAVFQmAY2sE0A/edit?usp=drive_link) / [녹화록](https://drive.google.com/file/d/1T9PRt4GY6glhdY_V3WxzAKZzylNJp9rd/view?usp=drive_link)
 - OWASP Seoul Monthly meeting 01/07[회의록](https://docs.google.com/document/d/1ifw3RAYkjb0bUogmOaCJ75GMF5QiPptj1qr_xZtBx-I/edit?usp=drive_link) / [녹화록](https://drive.google.com/file/d/1tig2cg5xED7M4Q_FRVnhVr77DHbRQ7cQ/view?usp=drive_link)
 
 ## 과거 회의록
