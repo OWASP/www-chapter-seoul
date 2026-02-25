@@ -10,6 +10,17 @@ tags: Seoul
 ---
 
 ## OWASP Seoul Chapter 2026년 1월 세미나
+  - 주제#1:  Mac & ChromeOS DEP로 배포 지옥 탈출하기 [녹화본-Youtube](https://youtu.be/FE9i3v6TR44)
+    - 발표자 : [박도영](https://www.linkedin.com/in/doyoung-p-2981561b2/) - Prex Technology
+    - 발표자료 : [2026 Feb 박도영 - Mac & ChromeOS DEP로 배포 지옥 탈출하기](./assets/files/2026 Feb 박도영 - Mac & ChromeOS DEP로 배포 지옥 탈출하기.pdf){: target="_blank"}
+  - 주제#2: AI와 오픈소스로 완성하는 엔드포인트 하드닝[녹화본-Youtube](https://youtu.be/iSSuQBJNzAA)
+    - 발표자: [정대영](https://www.linkedin.com/in/daeyoung-jeong-b7b10920b/) - 에잇퍼센트
+    - 발표자료: [2026 Feb 정대영 - AI와 오픈소스로 완성하는 엔드포인트 하드닝](./assets/files/2026 Feb 정대영 - AI와 오픈소스로 완성하는 엔드포인트 하드닝.pdf){: target="_blank"}
+  - 장소 후원: [Dcamp](https://dcamp.kr)
+  - 케이터링 후원: [TrendAI](https://www.trendmicro.com/ko_kr/business.html)
+  - 번역 후원: [Cuckoo](http://cuckoo.so/)
+
+## OWASP Seoul Chapter 2026년 1월 세미나
   - 주제#1:  막연함을 확신으로 바꾼 주니어의 9개월: 크래시에서 프롬프트, 그리고 에이전트 AI까지 [녹화본-Youtube](https://youtu.be/ykWW_bdPr4k)
     - 발표자 : [여서인](https://www.linkedin.com/in/seoin-yeo-b75071378/) - 화이트햇스쿨 3기
     - 발표자료 : [2026 Jan 여서인 - 막연함을 확신으로 바꾼 주니어의 9개월: 크래시에서 프롬프트, 그리고 에이전트 AI까지](./assets/files/2026%20Jan%20여서인%20-%20막연함을%20확신으로%20바꾼%20주니어의%209개월%20크래시에서%20프롬프트,%20그리고%20에이전트%20AI까지.pdf){: target="_blank"}
