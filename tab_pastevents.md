@@ -9,7 +9,7 @@ tags: Seoul
 
 ---
 
-## OWASP Seoul Chapter 2026년 1월 세미나
+## OWASP Seoul Chapter 2026년 2월 세미나
   - 주제#1:  Mac & ChromeOS DEP로 배포 지옥 탈출하기 [녹화본-Youtube](https://youtu.be/FE9i3v6TR44)
     - 발표자 : [박도영](https://www.linkedin.com/in/doyoung-p-2981561b2/) - Prex Technology
     - 발표자료 : [2026 Feb 박도영 - Mac & ChromeOS DEP로 배포 지옥 탈출하기](./assets/files/2026 Feb 박도영 - Mac & ChromeOS DEP로 배포 지옥 탈출하기.pdf){: target="_blank"}
