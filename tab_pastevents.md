@@ -9,6 +9,37 @@ tags: Seoul
 
 ---
 
+
+## OWASP Seoul Chapter 2026년 3월 세미나
+  - 주제#1: Hacking and Securing Lobsters in 2026
+    - 발표자 : [Jamieson O'Reilly](https://www.linkedin.com/in/theonejvo/)
+    - 발표자료 : [2026 Mar Jamieson O'Reilly - Hacking and Securing Lobsters in 2026](./assets/files/2026%20Mar%20Jamieson%20O%27Reilly%20-%20Hacking%20and%20Securing%20Lobsters%20in%202026.pdf){: target="_blank"}
+  - 주제#2: The Underdog's Road to Pwn2Own
+    - 발표자 : [김동희](https://www.linkedin.com/in/heehee/)
+    - 발표자료 : [2026 Mar 김동희 - The Underdog's Road to Pwn2Own](./assets/files/2026%20Mar%20김동희%20-%20The%20Underdog%27s%20Road%20to%20Pwn2Own.pdf){: target="_blank"}
+  - 장소 후원: [디캠프](https://dcamp.kr/)
+
+## OWASP Seoul Chapter Night in San Francisco
+  - Recording (하이라이트): [녹화본-Youtube](https://youtu.be/ajVu84L7TYw)
+  - 주제#1: RSAC 2026 골라 먹고, 사람 만나고, 보고까지 - 나만의 공략법
+    - 발표자 : [고성종](https://www.linkedin.com/in/seongjong-koh-494152110/)
+    - 발표자료 : [2026 OWASP SFO 고성종 - RSAC 2026 골라 먹고, 사람 만나고, 보고까지 - 나만의 공략법](./assets/files/2026%20OWASP%20SFO%20고성종%20-%20RSAC%202026%20골라%20먹고,%20사람%20만나고,%20보고까지%20-%20나만의%20공략법.pdf){: target="_blank"}
+  - 주제#2: AI가 바꾸는 XDR의 풍경
+    - 발표자 : [구동언](https://www.linkedin.com/in/dgoo/?locale=ko)
+    - 발표자료 : [2026 OWASP SFO 구동언 - AI가 바꾸는 XDR의 풍경](./assets/files/2026%20OWASP%20SFO%20구동언%20-%20AI가%20바꾸는%20XDR의%20풍경.pdf){: target="_blank"}
+  - 주제#3: 보안에 활용 가능한 AI 기술들
+    - 발표자 : [오석윤](https://www.linkedin.com/in/absolutezer0/)
+    - 발표자료 : [2026 OWASP SFO 오석윤 - 보안에 활용 가능한 AI 기술들](./assets/files/2026%20OWASP%20SFO%20오석윤%20-%20보안에%20활용%20가능한%20AI%20기술들.pdf){: target="_blank"}
+  - 주제#4: Insung Digital Security Solutions
+    - 발표자 : 조강원
+    - 발표자료 : [2026 OWASP SFO 조강원 - Insung Digital Security Solutions](./assets/files/2026%20OWASP%20SFO%20조강원%20-%20Insung%20Digital%20Security%20Solutions.pdf){: target="_blank"}
+  - 주제#5: Can We Trust the Code We Ship? Vibe Coding 시대의 AppSec
+    - 발표자 : [최광준](https://www.linkedin.com/in/fandu2014/ko/?skipRedirect=true)
+    - 발표자료 : [2026 OWASP SFO 최광준 - Can We Trust the Code We Ship? Vibe Coding 시대의 AppSec](./assets/files/2026%20OWASP%20SFO%20최광준%20-%20Can%20We%20Trust%20the%20Code%20We%20Ship%3F%20Vibe%20Coding%20시대의%20AppSec.pdf){: target="_blank"}
+  - 장소 후원: [한화AI센터](https://hac.ai/)
+  - 케이터링 후원: [Provally](https://provally.io/), [다온기술](https://www.daont.co.kr/), [인성디지털](https://www.isd.co.kr/), [로그프레소](https://logpresso.com/)
+
+
 ## OWASP Seoul Chapter 2026년 2월 세미나
   - 주제#1:  Mac & ChromeOS DEP로 배포 지옥 탈출하기 [녹화본-Youtube](https://youtu.be/FE9i3v6TR44)
     - 발표자 : [박도영](https://www.linkedin.com/in/doyoung-p-2981561b2/) - Prex Technology
