@@ -11,12 +11,12 @@ tags: Seoul
 
 
 ## OWASP Seoul Chapter 2026년 3월 세미나
-  - 주제#1: Hacking and Securing Lobsters in 2026 [녹화본-Youtube](https://youtu.be/6wFtuOrXFK8)
-    - 발표자 : [Jamieson O'Reilly](https://www.linkedin.com/in/theonejvo/)
-    - 발표자료 : [2026 Mar Jamieson O'Reilly - Hacking and Securing Lobsters in 2026](./assets/files/2026%20Mar%20Jamieson%20O%27Reilly%20-%20Hacking%20and%20Securing%20Lobsters%20in%202026.pdf){: target="_blank"}
-  - 주제#2: The Underdog's Road to Pwn2Own [녹화본-Youtube](https://youtu.be/Xa3CHEkuTTo)
+  - 주제#1: The Underdog's Road to Pwn2Own [녹화본-Youtube](https://youtu.be/Xa3CHEkuTTo)
     - 발표자 : [김동희](https://www.linkedin.com/in/heehee/)
     - 발표자료 : [2026 Mar 김동희 - The Underdog's Road to Pwn2Own](./assets/files/2026%20Mar%20김동희%20-%20The%20Underdog%27s%20Road%20to%20Pwn2Own.pdf){: target="_blank"}
+  - 주제#2: Hacking and Securing Lobsters in 2026 [녹화본-Youtube](https://youtu.be/6wFtuOrXFK8)
+    - 발표자 : [Jamieson O'Reilly](https://www.linkedin.com/in/theonejvo/)
+    - 발표자료 : [2026 Mar Jamieson O'Reilly - Hacking and Securing Lobsters in 2026](./assets/files/2026%20Mar%20Jamieson%20O%27Reilly%20-%20Hacking%20and%20Securing%20Lobsters%20in%202026.pdf){: target="_blank"}
   - 장소 후원: [디캠프](https://dcamp.kr/)
 
 ## OWASP Seoul Chapter Night in San Francisco
