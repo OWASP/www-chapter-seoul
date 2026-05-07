@@ -10,6 +10,17 @@ tags: Seoul
 ---
 
 
+## OWASP Seoul Chapter 2026년 4월 세미나
+  - 주제#1: 밑바닥부터 시작하는 스타트업 보안 [녹화본-Youtube](https://youtu.be/VutI_QFHhVc)
+    - 발표자 : [강정철](https://www.linkedin.com/in/kangk7300-6a3569279/)
+    - 발표자료 : [2026 Apr 강정철 - 밑바닥부터 시작하는 스타트업 보안](./assets/files/2026 Apr 강정철 - 밑바닥부터 시작하는 스타트업 보안.pdf){: target="_blank"}
+  - 주제#2: Zero to One, One to Ten: 성장하는 보안 조직에서 중심에 두어야할 것 [녹화본-Youtube](https://youtu.be/3cprsoM920Y)
+    - 발표자 : [김동현](https://www.linkedin.com/in/dhyun-kim/) 
+    - 발표자료 : [2026 Apr 김동현 - Zero to One, One to Ten - 성장하는 보안 조직에서 중심에 두어야할 것](./assets/2026 Apr 김동현 - Zero to One, One to Ten - 성장하는 보안 조직에서 중심에 두어야할 것.pdf){: target="_blank"}
+  - 장소 후원: [디캠프](https://dcamp.kr/)
+  - 케이터링 후원: [갓루트](https://www.gotroot.co.kr/)
+
+
 ## OWASP Seoul Chapter 2026년 3월 세미나
   - 주제#1: The Underdog's Road to Pwn2Own [녹화본-Youtube](https://youtu.be/Xa3CHEkuTTo)
     - 발표자 : [김동희](https://www.linkedin.com/in/heehee/)
