@@ -10,6 +10,18 @@ tags: Seoul
 ---
 
 
+## OWASP Seoul Chapter 2026년 5월 세미나
+  - Recording: 녹화본은 편집 후 공개 예정
+  - 주제#1: AI 시대, 당신도 CVE의 주인공 입니다
+    - 발표자 : [김태범](https://www.linkedin.com/in/taebeom-kim/)
+    - 발표자료 : [2026 May 김태범 - AI 시대, 당신도 CVE의 주인공 입니다](./assets/files/2026 May 김태범 - AI 시대, 당신도 CVE의 주인공 입니다.pdf){: target="_blank"}
+  - 주제#2: AI기반 취약점탐지 워크플로우 구축기
+    - 발표자 : [신현서](https://se1en.tistory.com/)
+    - 발표자료 : [2026 May 신현서 - AI기반 취약점탐지 워크플로우 구축기](./assets/files/2026 May 신현서 - AI기반 취약점탐지 워크플로우 구축기.pdf){: target="_blank"}
+  - 장소 후원: [디캠프](https://dcamp.kr/)
+  - 케이터링 후원: [XBOW](https://xbow.com/)
+
+
 ## OWASP Seoul Chapter 2026년 4월 세미나
   - 주제#1: 밑바닥부터 시작하는 스타트업 보안 [녹화본-Youtube](https://youtu.be/VutI_QFHhVc)
     - 발표자 : [강정철](https://www.linkedin.com/in/kangk7300-6a3569279/)
