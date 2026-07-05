@@ -9,13 +9,24 @@ tags: Seoul
 
 ---
 
+## OWASP Seoul Chapter 2026년 6월 세미나
+  - Recording: 녹화본은 편집 후 공개 예정
+  - 주제#1: 당근이 파이썬 공급망 공격에 대응하는 방법
+    - 발표자 : [김수빈](https://www.linkedin.com/in/sudosubin), [나동희](https://www.linkedin.com/in/donghee-na-2b713b49/)
+    - 발표자료 : [2026 June 김수빈 나동희 - 당근이 파이썬 공급망 공격에 대응하는 방법](./assets/files/2026 June 김수빈 나동희 - 당근이 파이썬 공급망 공격에 대응하는 방법){: target="_blank"}
+  - 주제#2: 토스의 공급망 보안 대응 전략
+    - 발표자 : 표상영
+    - 발표자료 : [2026 June 표상영 - 토스의 공급망 보안 대응 전략](./assets/files/2026 June 표상영 - 토스의 공급망 보안 대응 전략){: target="_blank"}
+  - 장소 후원: [디캠프](https://dcamp.kr/)
+  - 케이터링 후원: [인성디지털](https://www.isd.co.kr/)
+
+
 
 ## OWASP Seoul Chapter 2026년 5월 세미나
-  - Recording: 녹화본은 편집 후 공개 예정
-  - 주제#1: AI 시대, 당신도 CVE의 주인공 입니다
+  - 주제#1: AI 시대, 당신도 CVE의 주인공 입니다 [녹화본-Youtube](https://www.youtube.com/watch?v=jTVNu63Gc94)
     - 발표자 : [김태범](https://www.linkedin.com/in/taebeom-kim/)
     - 발표자료 : [2026 May 김태범 - AI 시대, 당신도 CVE의 주인공 입니다](./assets/files/2026 May 김태범 - AI 시대, 당신도 CVE의 주인공 입니다.pdf){: target="_blank"}
-  - 주제#2: AI기반 취약점탐지 워크플로우 구축기
+  - 주제#2: AI기반 취약점탐지 워크플로우 구축기 [녹화본-Youtube](https://www.youtube.com/watch?v=1ulQuhTRqYo)
     - 발표자 : [신현서](https://se1en.tistory.com/)
     - 발표자료 : [2026 May 신현서 - AI기반 취약점탐지 워크플로우 구축기](./assets/files/2026 May 신현서 - AI기반 취약점탐지 워크플로우 구축기.pdf){: target="_blank"}
   - 장소 후원: [디캠프](https://dcamp.kr/)
@@ -58,7 +69,7 @@ tags: Seoul
     - 발표자료 : [2026 OWASP SFO 조강원 - Insung Digital Security Solutions](./assets/files/2026%20OWASP%20SFO%20조강원%20-%20Insung%20Digital%20Security%20Solutions.pdf){: target="_blank"}
   - 주제#5: Can We Trust the Code We Ship? Vibe Coding 시대의 AppSec
     - 발표자 : [최광준](https://www.linkedin.com/in/fandu2014/ko/?skipRedirect=true)
-    - 발표자료 : [2026 OWASP SFO 최광준 - Can We Trust the Code We Ship? Vibe Coding 시대의 AppSec](./assets/files/2026%20OWASP%20SFO%20최광준%20-%20Can%20We%20Trust%20the%20Code%20We%20Ship%3F%20Vibe%20Coding%20시대의%20AppSec.pdf){: target="_blank"}
+    - 발표자료 : [2026 OWASP SFO 최광준 - Can We Trust the Code We Ship? Vibe Coding 시대의 AppSec](./assets/files/2026%20OWASP%20SFO%20최광준%20-%20Can%20We%20Trust%20the%20Code%20We%20Ship%20Vibe%20Coding%20시대의%20AppSec.pdf){: target="_blank"}
   - 장소 후원: [한화AI센터](https://hac.ai/)
   - 케이터링 후원: [Provally](https://provally.io/), [다온기술](https://www.daont.co.kr/), [인성디지털](https://www.isd.co.kr/), [로그프레소](https://logpresso.com/)
 
