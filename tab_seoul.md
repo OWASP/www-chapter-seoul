@@ -17,10 +17,13 @@ OWASP Seoul Chapter 5기 운영진을 현재 아래와 같이 구성하여 운�
 | --- | --- | --- | --- | --- |
 | 홍성진 | Sendbird | [LinkedIn](https://www.linkedin.com/in/sjhk/) | [Blog](https://seongjin.blog) | 서울 챕터 리더 (2025.05 ~ ) |
 | 김동현 | Cremit | [LinkedIn](https://www.linkedin.com/in/ben-dh-kim/) | [Blog](https://bendh.kim) | 서울 챕터 리더 (2025.05 ~ ) |
+| 강신우 | LLOYDK | [LinkedIn](https://www.linkedin.com/in/kang-shin-woo/) | | 서울 챕터 리더 (2026.05 ~ ) |
+| 이현정 | IBM | [LinkedIn](https://www.linkedin.com/in/jlee0505/) | | 서울 챕터 리더 (2026.05 ~ ) |
 
 운영진 참여, 회원 관련 및 기타 문의: [서울 리더](mailto:seoul-leaders@owasp.org)
 
 # OWASP Seoul Chapter 역대 운영진
+
 | 이름 | 소속 | Contact | Site | 활동내역 |
 | --- | --- | --- | --- | --- |
 | 전영재 | 에스알센터 | [LinkedIn](https://www.linkedin.com/in/whitehat-kr/) | | 서울 챕터 리더 (2019.03 ~ 2026.05) |
