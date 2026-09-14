@@ -3,17 +3,16 @@ community:
     platform: slack
     url: https://owasp.slack.com/archives/CQGH1PEG4
 leaders:
-  - name: Jin Kwak
-    email: jin.kwak@owasp.org
-  - name: Youngjae Jeon
-    email: youngjae.jeon@owasp.org
-    github: OWASP-Seoul
   - name: Donghyun Kim
     email: ben.kim@owasp.org
     github: ben-cremit
   - name: Seongjin Hong
     email: seongjin.hong@owasp.org
     github: ni5am
+  - name: Hyunjeong Lee
+    email: hyunjeong.lee@owasp.org
+  - name: Shinwoo Kang
+    email: kang.shin.woo@owasp.org
 location:
   country: South Korea
   country_code: KR
@@ -31,4 +30,4 @@ tags:
   - Seoul
   - custom-tag-1
   - custom-tag-2
-website: https://owasp.org/www-chapter-seoul
+website: https://nest.owasp.org/chapters/seoul
