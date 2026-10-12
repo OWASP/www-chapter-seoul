@@ -9,6 +9,24 @@ tags: Seoul
 
 ---
 
+## OWASP Seoul Chapter 2026년 9월 세미나
+  - 주제#1: "기술/개발하기 싫어서 정책 담당자 하는데요(할건데요)?"라는 말의 현실 [녹화본-Youtube](https://youtu.be/RtxhohPIdjQ?si=c7ybG4IbSebdRcgJ)
+    - 발표자 : [공지훈](https://www.linkedin.com/in/mr-zero/)
+    - 발표자료 : [2026 Sep 공지훈 - "기술/개발하기 싫어서 정책 담당자 하는데요(할건데요)?"라는 말의 현실](./assets/files/2026 Sep 공지훈 -  _기술_개발하기 싫어서 정책 담당자 하는데요(할건데요)_라는 말의 현실.pdf){: target="_blank"}
+  - 주제#2: 당신의 인생, 어떻게 살 것인가? : 사이버 보안분야에서의 연구 [녹화본-Youtube](https://youtu.be/7FH639FCtFs?si=7sFqYMnPAul8RHRA)
+    - 발표자 : [문석주](https://www.linkedin.com/in/seokjoo-mun-473704127/)
+    - 발표자료 : [2026 Sep 문석주 - 당신의 인생, 어떻게 살 것인가? : 사이버 보안분야에서의 연구](./assets/files/2026 Sep 문석주 - 당신의 인생, 어떻게 살 것인가_ _ 사이버 보안분야에서의 연구.pdf){: target="_blank"}
+  - 주제#3: 클라우드 보안은 어떻게 일해야 하는가? [녹화본-Youtube](https://youtu.be/Z09Yg_EsGs8?si=ouYnn36a9l5MBO1d)
+    - 발표자 : [이종근](https://www.linkedin.com/in/kfisac/)
+    - 발표자료 : [2026 Sep 이종근 - Security SA는 어떻게 일하는가](./assets/files/2026 Sep 이종근 - Security SA는 어떻게 일하는가_20260929.pdf.pdf){: target="_blank"}
+  - 주제#4: 보안 엔지니어의 장바구니 채우기 : 잘 골라 잘 쓰는 것도 실력이다 [녹화본-Youtube](https://youtu.be/rgqe_Y-syOE?si=lAE_OdpBF0l6g7oe)
+    - 발표자 : [박건호](https://www.linkedin.com/in/gunh0902/)
+    - 발표자료 : [2026 Sep 박건호 - 보안 엔지니어의 장바구니 채우기 잘 골라 잘 쓰는 것도 실력이다](./assets/files/2026 Sep 박건호 - 보안 엔지니어의 장바구니 채우기  잘 골라 잘 쓰는 것도 실력이다.pdf){: target="_blank"}
+  - 장소 후원: [디캠프](https://dcamp.kr/)
+  - 케이터링 후원: [Theori](https://theori.io/ko)
+
+
+
 ## OWASP Seoul Chapter 2026년 8월 세미나
   - 주제#1: 침해사고 대응 현장에서 배우는 의사결정 [녹화본-Youtube](https://www.youtube.com/watch?v=URSGmlisRuk)
     - 발표자 : [유안지](https://www.linkedin.com/in/anji-yoo-601a96430)
